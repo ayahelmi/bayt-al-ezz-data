@@ -1,5 +1,31 @@
 [
   {
+    "id": 1783680710106,
+    "name": "فرامة يدوية",
+    "price": 60,
+    "category": "مطبخ",
+    "description": "منتج جديد",
+    "image": "https://via.placeholder.com/600",
+    "images": [
+      "https://via.placeholder.com/600"
+    ],
+    "rating": 5,
+    "badge": "جديد"
+  },
+  {
+    "id": 1783680688552,
+    "name": "فرامة يدوية",
+    "price": 60,
+    "category": "مطبخ",
+    "description": "منتج جديد",
+    "image": "https://via.placeholder.com/600",
+    "images": [
+      "https://via.placeholder.com/600"
+    ],
+    "rating": 5,
+    "badge": "جديد"
+  },
+  {
     "id": 57,
     "name": "تشكيلة غازات طاولة 3 عيون بغطاء معدني – عملي وقوي للاستخدام اليومي",
     "category": "مطبخ",
