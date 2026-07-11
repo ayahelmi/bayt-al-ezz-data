@@ -1,5 +1,33 @@
 [
   {
+    "id": 1783680710106,
+    "name": "فرامة يدوية",
+    "price": 60,
+    "category": "مطبخ",
+    "description": "منتج جديد",
+    "image": "https://via.placeholder.com/600",
+    "images": [
+      "https://via.placeholder.com/600"
+    ],
+    "rating": 5,
+    "badge": "جديد",
+    "reviews": []
+  },
+  {
+    "id": 1783680688552,
+    "name": "فرامة يدوية",
+    "price": 60,
+    "category": "مطبخ",
+    "description": "منتج جديد",
+    "image": "https://via.placeholder.com/600",
+    "images": [
+      "https://via.placeholder.com/600"
+    ],
+    "rating": 5,
+    "badge": "جديد",
+    "reviews": []
+  },
+  {
     "id": 57,
     "name": "تشكيلة غازات طاولة 3 عيون بغطاء معدني – عملي وقوي للاستخدام اليومي",
     "category": "مطبخ",
@@ -12,13 +40,14 @@
       "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA%20(6).png",
       "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA%20(2).png"
     ],
-    "description": "غاز طاولة 3 عيون بسطح معدني متين..."
+    "description": "غاز طاولة 3 عيون بسطح معدني متين...",
+    "reviews": []
   },
   {
     "id": 56,
     "name": "كشاف حائط شمسي ذكي مع حساس حركة – 120 واط",
     "category": "أجهزة كهربائية",
-    "price": 120,
+    "price": 100,
     "rating": 5,
     "badge": "جديد",
     "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%83%D8%B4%D8%A7%D9%814.png",
@@ -28,7 +57,8 @@
       "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%83%D8%B4%D8%A7%D9%813%20(2).png",
       "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%83%D8%B4%D8%A7%D9%81%20(2).png"
     ],
-    "description": "كشاف إضاءة خارجي..."
+    "description": "كشاف إضاءة خارجي...",
+    "reviews": []
   },
   {
     "id": 55,
@@ -43,7 +73,8 @@
       "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%AA%D9%8A%D8%B1%D9%85%D8%B3%20%D9%85%D8%B9%20%D9%81%D9%86%D8%A7%D8%AC%D9%8A%D9%86%20(2).png",
       "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%AA%D9%8A%D8%B1%D9%85%D8%B3%20%D9%85%D8%B9%20%D9%81%D9%86%D8%A7%D8%AC%D9%8A%D9%86%20(1).png"
     ],
-    "description": "طقم أنيق يجمع بين الفخامة والعملية..."
+    "description": "طقم أنيق يجمع بين الفخامة والعملية...",
+    "reviews": []
   },
   {
     "id": 54,
@@ -53,7 +84,11 @@
     "rating": 5,
     "badge": "جديد",
     "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/9%20(3).png",
-    "description": "أضيفي لمسة من الفخامة..."
+    "description": "أضيفي لمسة من الفخامة...",
+    "images": [
+      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/9%20(3).png"
+    ],
+    "reviews": []
   },
   {
     "id": 53,
@@ -68,7 +103,8 @@
       "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/9%20(14).png",
       "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/9%20(2).png"
     ],
-    "description": "طقم ترامس ضيافة أنيق..."
+    "description": "طقم ترامس ضيافة أنيق...",
+    "reviews": []
   },
   {
     "id": 52,
@@ -83,7 +119,8 @@
       "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%BA%D8%A7%D8%B2.png",
       "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D9%88%D9%82%D8%AF%20%D8%BA%D8%A7%D8%B2.png"
     ],
-    "description": "موقد غاز محمول..."
+    "description": "موقد غاز محمول...",
+    "reviews": []
   },
   {
     "id": 1,
@@ -98,7 +135,8 @@
       "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/9%20(10).png",
       "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/9%20(8).png"
     ],
-    "description": "ارتقِ بتجربة الطهي..."
+    "description": "ارتقِ بتجربة الطهي...",
+    "reviews": []
   },
   {
     "id": 2,
@@ -111,7 +149,8 @@
     "images": [
       "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%83%D9%85%D9%83%D9%85%20%D9%85%D8%A7%D8%A1%20%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A.png"
     ],
-    "description": "غلاية ماء كهربائية..."
+    "description": "غلاية ماء كهربائية...",
+    "reviews": []
   },
   {
     "id": 4,
@@ -121,7 +160,11 @@
     "rating": 4,
     "badge": "عرض محدود",
     "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D8%AC-%D8%B2%D8%AC%D8%A7%D8%AC-%D9%84%D9%88%D9%86-%D8%B0%D9%87%D8%A8%D9%8A-%D9%85%D8%B9-%D9%85%D8%B3%D9%83%D8%A9-%D8%AC%D9%84%D8%AF.jpg",
-    "description": "كاسة زجاج حراري أنيقة..."
+    "description": "كاسة زجاج حراري أنيقة...",
+    "images": [
+      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D8%AC-%D8%B2%D8%AC%D8%A7%D8%AC-%D9%84%D9%88%D9%86-%D8%B0%D9%87%D8%A8%D9%8A-%D9%85%D8%B9-%D9%85%D8%B3%D9%83%D8%A9-%D8%AC%D9%84%D8%AF.jpg"
+    ],
+    "reviews": []
   },
   {
     "id": 5,
@@ -135,7 +178,8 @@
       "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%A8%D8%B1%D8%A7%D8%AF%20%D8%B4%D8%A7%D9%8A%20%D9%85%D8%B9%20%D9%81%D9%86%D8%A7%D8%AC%D9%8A%D9%861.png",
       "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%A8%D8%B1%D8%A7%D8%AF%20%D8%B4%D8%A7%D9%8A%20%D9%85%D8%B9%20%D9%81%D9%86%D8%A7%D8%AC%D9%8A%D9%86.png"
     ],
-    "description": "طقم براد زجاج حراري..."
+    "description": "طقم براد زجاج حراري...",
+    "reviews": []
   },
   {
     "id": 6,
@@ -148,7 +192,8 @@
       "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B9%D9%84%D8%A8%20%D8%B4%D9%81%D8%A7%D9%81%D8%A9%201.png",
       "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B9%D9%84%D8%A8%20%D8%B4%D9%81%D8%A7%D9%81%D8%A9.png"
     ],
-    "description": "علب شفافة متعددة الأحجام..."
+    "description": "علب شفافة متعددة الأحجام...",
+    "reviews": []
   },
   {
     "id": 7,
@@ -192,6 +237,9 @@
         "rating": 4,
         "text": "خفيفة وسهلة الاستخدام."
       }
+    ],
+    "images": [
+      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D8%B3%D8%A7%D8%AD%D8%A9%20%D9%85%D8%AC%D9%84%D8%A9.jpg"
     ]
   },
   {
@@ -718,6 +766,9 @@
         "rating": 4,
         "text": "جودة ممتازة."
       }
+    ],
+    "images": [
+      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B5%D8%AD%D9%86%20%D8%AA%D9%82%D8%AF%D9%8A%D9%83.png"
     ]
   },
   {
@@ -746,6 +797,9 @@
         "rating": 4,
         "text": "ثقيل قليلاً لكنه متين."
       }
+    ],
+    "images": [
+      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B7%D9%86%D8%AC%D8%B1%D8%A9.png"
     ]
   },
   {
@@ -954,6 +1008,9 @@
         "rating": 4,
         "text": "جيد جدًا وسعره مناسب مقارنة بالجودة."
       }
+    ],
+    "images": [
+      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%A8%D8%B3%D9%83%D9%88%D8%AA.png"
     ]
   },
   {
@@ -1046,6 +1103,9 @@
         "rating": 5,
         "text": "تجربة فاخرة للشوكولاتة التركية."
       }
+    ],
+    "images": [
+      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B4%D9%88%D9%83%D9%84%D8%A7%D8%AA%D9%87%20%D8%A8%D8%A7%D9%84%D9%81%D8%B3%D8%AF%D9%82%20%D8%A7%D9%84%D8%AD%D9%84%D8%A8%D9%8A.png"
     ]
   },
   {
@@ -1168,6 +1228,9 @@
         "rating": 5,
         "text": "فاخر جدًا ومشبع."
       }
+    ],
+    "images": [
+      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D9%88%D9%84%D8%AA%D9%88%20%D9%81%D8%B1%D8%A7%D9%88%D9%84%D8%A9.png"
     ]
   },
   {
