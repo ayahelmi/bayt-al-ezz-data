@@ -5,35 +5,30 @@
     "category": "مطبخ",
     "price": 300,
     "rating": 5,
-    "icon": "kitchen",
-    "badge": "جديد ",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA%20(9).png",
+    "badge": "جديد",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA%20(9).png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA%20(9).png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA%20(6).png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA%20(2).png"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA%20(9).png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA%20(6).png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%BA%D8%A7%D8%B2%D8%A7%D8%AA%20(2).png"
     ],
-    "description": "غاز طاولة 3 عيون بسطح معدني متين وغطاء علوي للحماية، يوفر طهيًا سريعًا ومتوازنًا مع تحكم سهل بالحرارة وتصميم عملي سهل التنظيف.",
-    "reviews": []
+    "description": "غاز طاولة 3 عيون بسطح معدني متين..."
   },
   {
     "id": 56,
     "name": "كشاف حائط شمسي ذكي مع حساس حركة – 120 واط",
     "category": "أجهزة كهربائية",
     "price": 120,
-    "oldPrice": 150,
     "rating": 5,
-    "icon": "bolt",
-    "badge": " جديد ",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%83%D8%B4%D8%A7%D9%814.png",
+    "badge": "جديد",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%83%D8%B4%D8%A7%D9%814.png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%83%D8%B4%D8%A7%D9%814.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%83%D8%B4%D8%A7%D9%81%20(1).png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%83%D8%B4%D8%A7%D9%813%20(2).png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%83%D8%B4%D8%A7%D9%81%20(2).png"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%83%D8%B4%D8%A7%D9%814.png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%83%D8%B4%D8%A7%D9%81%20(1).png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%83%D8%B4%D8%A7%D9%813%20(2).png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%83%D8%B4%D8%A7%D9%81%20(2).png"
     ],
-    "description": "كشاف إضاءة خارجي يعمل بالطاقة الشمسية، مزوّد بحساس حركة ذكي يضيء تلقائيًا عند استشعار الحركة ويوفّر إضاءة قوية وواضحة. يتميز بتصميم عملي مقاوم للعوامل الجوية، مع بطارية قابلة للشحن بالطاقة الشمسية لتوفير استهلاك الكهرباء. مناسب للمداخل، الأسوار، الحدائق، والممرات، ويمنح أمانًا وإضاءة فعّالة طوال الليل.",
-    "reviews": []
+    "description": "كشاف إضاءة خارجي..."
   },
   {
     "id": 55,
@@ -41,16 +36,14 @@
     "category": "مطبخ",
     "price": 70,
     "rating": 5,
-    "icon": "kitchen",
-    "badge": "جديد ",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%AA%D9%8A%D8%B1%D9%85%D8%B3%20%D9%85%D8%B9%20%D9%81%D9%86%D8%A7%D8%AC%D9%8A%D9%86.png",
+    "badge": "جديد",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%AA%D9%8A%D8%B1%D9%85%D8%B3%20%D9%85%D8%B9%20%D9%81%D9%86%D8%A7%D8%AC%D9%8A%D9%86.png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%AA%D9%8A%D8%B1%D9%85%D8%B3%20%D9%85%D8%B9%20%D9%81%D9%86%D8%A7%D8%AC%D9%8A%D9%86.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%AA%D9%8A%D8%B1%D9%85%D8%B3%20%D9%85%D8%B9%20%D9%81%D9%86%D8%A7%D8%AC%D9%8A%D9%86%20(2).png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%AA%D9%8A%D8%B1%D9%85%D8%B3%20%D9%85%D8%B9%20%D9%81%D9%86%D8%A7%D8%AC%D9%8A%D9%86%20(1).png"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%AA%D9%8A%D8%B1%D9%85%D8%B3%20%D9%85%D8%B9%20%D9%81%D9%86%D8%A7%D8%AC%D9%8A%D9%86.png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%AA%D9%8A%D8%B1%D9%85%D8%B3%20%D9%85%D8%B9%20%D9%81%D9%86%D8%A7%D8%AC%D9%8A%D9%86%20(2).png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%AA%D9%8A%D8%B1%D9%85%D8%B3%20%D9%85%D8%B9%20%D9%81%D9%86%D8%A7%D8%AC%D9%8A%D9%86%20(1).png"
     ],
-    "description": "طقم أنيق يجمع بين الفخامة والعملية، يتكون من ترمس بتصميم راقٍ مزخرف مع مجموعة فناجين متناسقة وصينية تقديم أنيقة بمقابض ذهبية. مثالي لتقديم القهوة أو الشاي في الضيافات والمناسبات، ويحافظ على حرارة المشروبات لفترة طويلة. اختيار رائع لمحبي الذوق الرفيع ولمسة الفخامة في كل تقديم.",
-    "reviews": []
+    "description": "طقم أنيق يجمع بين الفخامة والعملية..."
   },
   {
     "id": 54,
@@ -58,202 +51,135 @@
     "category": "مطبخ",
     "price": 25,
     "rating": 5,
-    "icon": "kitchen",
-    "badge": "جديد ",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/9%20(3).png",
-    "description": "أضيفي لمسة من الفخامة والرقي إلى جلساتك العائلية مع طبق ضيافة كريستالي فاخر. تصميمه العصري الشفاف يتيح تقديم المكسرات، الحلويات، والفواكه المجففة بشكل مرتب ومنفصل، مع غطاء يحافظ على الطراوة ويضيف لمسة جمالية لمائدتك. مثالي للمناسبات، رمضان، أو كهدية راقية للأصدقاء والعائلة.",
-    "reviews": [],
-    "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/9%20(3).png"
-    ]
+    "badge": "جديد",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/9%20(3).png",
+    "description": "أضيفي لمسة من الفخامة..."
   },
   {
     "id": 53,
-    "name": " طقم ترامس الضيافة الفاخر – أبيض × ذهبي        ",
+    "name": "طقم ترامس الضيافة الفاخر – أبيض × ذهبي",
     "category": "مطبخ",
     "price": 300,
     "rating": 5,
-    "icon": "kitchen",
-    "badge": "جديد ",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/9%20(17).png",
+    "badge": "جديد",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/9%20(17).png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/9%20(17).png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/9%20(14).png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/9%20(2).png"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/9%20(17).png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/9%20(14).png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/9%20(2).png"
     ],
-    "description": "طقم ترامس ضيافة أنيق بتصميم فاخر يجمع بين اللون الأبيض الراقي واللمسات الذهبية الفخمة، ليمنح طاولة الضيافة حضورًا مميزًا ولمسة من الفخامة ✨ مثالي لتقديم القهوة العربية، الشاي، أو المشروبات الساخنة في المناسبات، شهر رمضان، العزائم، والضيافة اليومية. مصنوع من مواد عالية الجودة تحافظ على حرارة المشروبات لفترة طويلة، مع مقابض مريحة وسكب سلس بدون تسريب. تصميم عملي وأنيق ينسجم مع مختلف أنماط الديكور ويعكس ذوقًا راقيًا في التقديم.",
-    "reviews": []
+    "description": "طقم ترامس ضيافة أنيق..."
   },
   {
     "id": 52,
-    "name": "موقد غاز محمول       ",
+    "name": "موقد غاز محمول",
     "category": "أدوات منزلية",
     "price": 250,
     "rating": 5,
-    "icon": "home",
     "badge": "نفد من المخزون",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%BA%D8%A7%D8%B21.png",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%BA%D8%A7%D8%B21.png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%BA%D8%A7%D8%B21.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%BA%D8%A7%D8%B2.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D9%88%D9%82%D8%AF%20%D8%BA%D8%A7%D8%B2.png"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%BA%D8%A7%D8%B21.png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%BA%D8%A7%D8%B2.png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D9%88%D9%82%D8%AF%20%D8%BA%D8%A7%D8%B2.png"
     ],
-    "description": "موقد غاز محمول يعمل بوقود البيوتان، مصمم للاستخدام العملي في الرحلات، التخييم، الاستخدام المنزلي المؤقت، والطوارئ. يتميز بتصميم مدمج مع هيكل متين وسطح طهي مستقر، ويوفر شعلة قوية ومنتظمة تساعد على الطهي السريع والمتوازن. يعمل بعلب بيوتان قياسية سهلة التركيب والاستبدال، مع نظام تحكم في شدة اللهب لمرونة أكبر أثناء الاستخدام. يأتي مع حقيبة حمل واقية تسهّل النقل والتخزين وتحافظ على الجهاز من الصدمات.",
-    "reviews": []
+    "description": "موقد غاز محمول..."
   },
   {
     "id": 1,
     "name": "طقم أواني طهي \"دويك\" الجرانيت الاحترافي",
     "category": "مطبخ",
     "price": 650,
-    "oldPrice": 800,
     "rating": 4,
-    "icon": "kitchen",
-    "badge": "جديد ",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/9%20(11).png",
+    "badge": "جديد",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/9%20(11).png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/9%20(11).png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/9%20(10).png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/9%20(8).png"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/9%20(11).png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/9%20(10).png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/9%20(8).png"
     ],
-    "description": "ارتقِ بتجربة الطهي مع طقم أواني طهي \"دويك\" الجرانيت الاحترافي! تصميم عصري وأنيق يجمع بين الأداء العالي والمظهر الراقي للمطبخ العصري. مثالي للطهي الصحي والآمن مع توزيع حراري متوازن وسطح غير لاصق يسهل التنظيف.",
-    "features": [
-      "سطح غير لاصق عالي الجودة للطهي الصحي والسهول",
-      "توزيع حراري متوازن يمنع حرق الطعام",
-      "خامات آمنة 100% خالية من PFOA",
-      "مقابض عازلة للحرارة ومريحة للحمل والاستخدام",
-      "تصميم عصري وأنيق يناسب جميع المطابخ"
-    ],
-    "specifications": {
-      "setsAvailable": "طقم 12 قطعة كامل أو طقم 8 قطع أساسي",
-      "type": "أواني طهي جرانيتية",
-      "colors": "البيج المنقط والأسود الفاخر",
-      "usage": "مناسب للطهي اليومي والاستخدام العائلي"
-    },
-    "reviews": [
-      {
-        "name": "أم خالد",
-        "rating": 5,
-        "text": "أفضل طقم اشتريته، لا يلصق الأكل نهائياً",
-        "date": "2025-01-9"
-      }
-    ]
+    "description": "ارتقِ بتجربة الطهي..."
   },
   {
     "id": 2,
     "name": "كمكم ماء كهربائي",
     "category": "أجهزة كهربائية",
     "price": 90,
-    "oldPrice": 120,
     "rating": 5,
-    "icon": "bolt",
     "badge": "نفد من المخزون",
-    "outOfStock": true,
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%83%D9%85%D9%83%D9%85%20%D9%85%D8%A7%D8%A1%20%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A.png",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%83%D9%85%D9%83%D9%85%20%D9%85%D8%A7%D8%A1%20%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A.png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%83%D9%85%D9%83%D9%85%20%D9%85%D8%A7%D8%A1%20%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/master/%D9%83%D9%85%D9%83%D9%85%20%D9%85%D8%A7%D8%A1.jpg"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%83%D9%85%D9%83%D9%85%20%D9%85%D8%A7%D8%A1%20%D9%83%D9%87%D8%B1%D8%A8%D8%A7%D8%A6%D9%8A.png"
     ],
-    "description": "غلاية ماء كهربائية ستانلس ستيل بسعة 1.7 لتر. ميزة الإغلاق التلقائي وتصميم عصري يناسب كل مطبخ.",
-    "reviews": []
+    "description": "غلاية ماء كهربائية..."
   },
   {
     "id": 4,
-    "name": "   كاسة زجاج حراري  ",
+    "name": "كاسة زجاج حراري",
     "category": "مطبخ",
     "price": 20,
-    "oldPrice": 40,
     "rating": 4,
-    "icon": "kitchen",
     "badge": "عرض محدود",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D8%AC-%D8%B2%D8%AC%D8%A7%D8%AC-%D9%84%D9%88%D9%86-%D8%B0%D9%87%D8%A8%D9%8A-%D9%85%D8%B9-%D9%85%D8%B3%D9%83%D8%A9-%D8%AC%D9%84%D8%AF.jpg",
-    "description": "كاسة زجاج حراري أنيقة مع مسكة جلدية، تحافظ على حرارة المشروبات لفترة أطول. مثالية للشاي والقهوة والاستخدام اليومي في المنزل أو المكتب.",
-    "reviews": [],
-    "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D8%AC-%D8%B2%D8%AC%D8%A7%D8%AC-%D9%84%D9%88%D9%86-%D8%B0%D9%87%D8%A8%D9%8A-%D9%85%D8%B9-%D9%85%D8%B3%D9%83%D8%A9-%D8%AC%D9%84%D8%AF.jpg"
-    ]
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D8%AC-%D8%B2%D8%AC%D8%A7%D8%AC-%D9%84%D9%88%D9%86-%D8%B0%D9%87%D8%A8%D9%8A-%D9%85%D8%B9-%D9%85%D8%B3%D9%83%D8%A9-%D8%AC%D9%84%D8%AF.jpg",
+    "description": "كاسة زجاج حراري أنيقة..."
   },
   {
     "id": 5,
-    "name": " طقم براد زجاج حراري مع كاسات  ",
+    "name": "طقم براد زجاج حراري مع كاسات",
     "category": "مطبخ",
     "price": 50,
     "rating": 5,
-    "icon": "kitchen",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%A8%D8%B1%D8%A7%D8%AF%20%D8%B4%D8%A7%D9%8A%20%D9%85%D8%B9%20%D9%81%D9%86%D8%A7%D8%AC%D9%8A%D9%861.png",
     "badge": "فاخر",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%A8%D8%B1%D8%A7%D8%AF%20%D8%B4%D8%A7%D9%8A%20%D9%85%D8%B9%20%D9%81%D9%86%D8%A7%D8%AC%D9%8A%D9%861.png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%A8%D8%B1%D8%A7%D8%AF%20%D8%B4%D8%A7%D9%8A%20%D9%85%D8%B9%20%D9%81%D9%86%D8%A7%D8%AC%D9%8A%D9%861.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%A8%D8%B1%D8%A7%D8%AF%20%D8%B4%D8%A7%D9%8A%20%D9%85%D8%B9%20%D9%81%D9%86%D8%A7%D8%AC%D9%8A%D9%86.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%A7%D8%A8%D8%B1%D9%8A%D9%82%20%D8%B4%D8%A7%D9%8A.jpeg"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%A8%D8%B1%D8%A7%D8%AF%20%D8%B4%D8%A7%D9%8A%20%D9%85%D8%B9%20%D9%81%D9%86%D8%A7%D8%AC%D9%8A%D9%861.png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%A8%D8%B1%D8%A7%D8%AF%20%D8%B4%D8%A7%D9%8A%20%D9%85%D8%B9%20%D9%81%D9%86%D8%A7%D8%AC%D9%8A%D9%86.png"
     ],
-    "description": "طقم براد زجاج حراري أنيق مع 4 كاسات، يحافظ على حرارة المشروبات لفترة أطول. مثالي للشاي، ويضفي لمسة جمالية على المائدة في المنزل أو المكتب.",
-    "reviews": []
+    "description": "طقم براد زجاج حراري..."
   },
   {
     "id": 6,
-    "name": " علب شفافة ",
+    "name": "علب شفافة",
     "category": "مطبخ",
     "price": 15,
     "rating": 4,
-    "icon": "kitchen",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B9%D9%84%D8%A8%20%D8%B4%D9%81%D8%A7%D9%81%D8%A9%201.png",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B9%D9%84%D8%A8%20%D8%B4%D9%81%D8%A7%D9%81%D8%A9%201.png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B9%D9%84%D8%A8%20%D8%B4%D9%81%D8%A7%D9%81%D8%A9%201.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B9%D9%84%D8%A8%20%D8%B4%D9%81%D8%A7%D9%81%D8%A9.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%81%D8%A7%D9%86%20%D8%A8%D9%88%D9%83%D8%B3.webp"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B9%D9%84%D8%A8%20%D8%B4%D9%81%D8%A7%D9%81%D8%A9%201.png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B9%D9%84%D8%A8%20%D8%B4%D9%81%D8%A7%D9%81%D8%A9.png"
     ],
-    "description": "علب شفافة متعددة الأحجام، مثالية لتخزين المواد الغذائية بشكل منظم وحفظ النكهات والأطعمة طازجة. تصميم عملي يسمح برؤية المحتوى بسهولة ويساعد على ترتيب المطبخ بكفاءة.",
-    "reviews": []
+    "description": "علب شفافة متعددة الأحجام..."
   },
   {
     "id": 7,
-    "name": " سلاسل غسيل ",
+    "name": "سلاسل غسيل",
     "category": "نظافة",
     "price": 30,
     "rating": 5,
     "icon": "sparkles",
     "badge": "",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B3%D9%84%D8%A7%D8%B3%D9%84%20%D8%BA%D8%B3%D9%8A%D9%84%20%D9%85%D9%84%D9%88%D9%86%D8%A9.png",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B3%D9%84%D8%A7%D8%B3%D9%84%20%D8%BA%D8%B3%D9%8A%D9%84%20%D9%85%D9%84%D9%88%D9%86%D8%A9.png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B3%D9%84%D8%A7%D8%B3%D9%84%20%D8%BA%D8%B3%D9%8A%D9%84%20%D9%85%D9%84%D9%88%D9%86%D8%A9.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B3%D9%84%D8%A7%D8%B3%D9%84%20%D8%BA%D8%B3%D9%8A%D9%84.png"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B3%D9%84%D8%A7%D8%B3%D9%84%20%D8%BA%D8%B3%D9%8A%D9%84%20%D9%85%D9%84%D9%88%D9%86%D8%A9.png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B3%D9%84%D8%A7%D8%B3%D9%84%20%D8%BA%D8%B3%D9%8A%D9%84.png"
     ],
     "description": "سلال غسيل متينة وعملية، متوفرة بألوان وأحجام متعددة لتناسب جميع احتياجات المنزل. مثالية لتخزين الملابس النظيفة أو المتسخة بطريقة منظمة وسهلة.",
     "reviews": []
   },
   {
     "id": 8,
-    "name": " مسّاحة زجاج وسيليكون متعددة الاستخدام ",
+    "name": "مسّاحة زجاج وسيليكون متعددة الاستخدام",
     "category": "نظافة",
     "price": 10,
     "rating": 5,
     "icon": "sparkles",
     "badge": "",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D8%B3%D8%A7%D8%AD%D8%A9%20%D9%85%D8%AC%D9%84%D8%A9.jpg",
-    "description": "مساحة عملية مصممة لتنظيف الزجاج والمرايا وجدران الحمّام بلمسة واحدة، تتميّز بمقبض مريح وشفرة سيليكون ناعمة تزيل الماء دون ترك آثار أو خطوط. مناسبة للاستخدام على الأسطح الملساء مثل الزجاج، السيراميك، الرخام، وأبواب الدش. خفيفة الوزن، سهلة التخزين، وتأتي بألوان أنيقة تضيف لمسة جمالية لحمّامك.",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D8%B3%D8%A7%D8%AD%D8%A9%20%D9%85%D8%AC%D9%84%D8%A9.jpg",
+    "description": "مساحة عملية مصممة لتنظيف الزجاج والمرايا وجدران الحمّام بلمسة واحدة، تتميّز بمقبض مريح وشفرة سيليكون ناعمة تزيل الماء دون ترك آثار أو خطوط. مناسبة للأسطح الملساء مثل الزجاج، السيراميك، الرخام، وأبواب الدش. خفيفة الوزن وسهلة التخزين.",
     "reviews": [
-      {
-        "name": "سجى",
-        "rating": 5,
-        "text": "ممتازة جداً! تنظف بسرعة وما بتترك أي خطوط على الزجاج، صارت أساسية عندي في الحمّام.",
-        "date": "2025-12-05"
-      },
-      {
-        "name": "ملك",
-        "rating": 4,
-        "text": "جودة رهيبة! السيليكون ناعم وما يخدش الزجاج، والمقبض مريح جداً بالاستخدام.",
-        "date": "2025-12-04"
-      },
-      {
-        "name": "أم محمد",
-        "rating": 4,
-        "text": "عملية وخفيفة، الحجم مناسب وسهلة التنظيف.",
-        "date": "2025-12-08"
-      }
-    ],
-    "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D8%B3%D8%A7%D8%AD%D8%A9%20%D9%85%D8%AC%D9%84%D8%A9.jpg"
+      { "name": "سجى", "rating": 5, "text": "ممتازة جداً! تنظف بسرعة وما بتترك أي خطوط على الزجاج." },
+      { "name": "ملك", "rating": 4, "text": "السيليكون ناعم وما يخدش الزجاج." },
+      { "name": "أم محمد", "rating": 4, "text": "خفيفة وسهلة الاستخدام." }
     ]
   },
   {
@@ -264,28 +190,16 @@
     "rating": 5,
     "badge": "",
     "icon": "home",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%88%D8%B1%D9%82%20%D8%AC%D8%AF%D8%B1%D8%A7%D9%86.png",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%88%D8%B1%D9%82%20%D8%AC%D8%AF%D8%B1%D8%A7%D9%86.png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%88%D8%B1%D9%82%20%D8%AC%D8%AF%D8%B1%D8%A7%D9%86.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%88%D8%B1%D9%82%20%D8%AC%D8%AF%D8%B1%D8%A7%D9%86.jpeg"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%88%D8%B1%D9%82%20%D8%AC%D8%AF%D8%B1%D8%A7%D9%86.png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%88%D8%B1%D9%82%20%D8%AC%D8%AF%D8%B1%D8%A7%D9%86.jpeg"
     ],
-    "description": "ورق جدران فاخر بتصميم عصري وألوان أنيقة، مناسب لتزيين الجدران في غرف المعيشة والمطابخ وغرف النوم. سهل التركيب والتنظيف، ويضفي لمسة فنية وراقية على أي مساحة.",
+    "description": "ورق جدران فاخر بتصميم عصري وألوان أنيقة، مناسب لتزيين الجدران في غرف المعيشة والمطابخ وغرف النوم. سهل التركيب والتنظيف.",
     "reviews": [
-      {
-        "name": "سارة أحمد",
-        "rating": 5,
-        "text": "ورق الجدران جميل جدًا، الألوان واضحة والجودة ممتازة. سهل التركيب ويعطي مظهر فاخر للغرفة."
-      },
-      {
-        "name": "محمد علي",
-        "rating": 4,
-        "text": "التصميم رائع، لكن يحتاج لتركيب دقيق حتى لا تظهر الفقاعات. بشكل عام جيد جدًا."
-      },
-      {
-        "name": "رغد خالد",
-        "rating": 5,
-        "text": "أفضل ورق جدران استخدمته حتى الآن، يعطي لمسة فنية للغرفة ويبدو فاخرًا."
-      }
+      { "name": "سارة أحمد", "rating": 5, "text": "جميل جداً والجودة ممتازة." },
+      { "name": "محمد علي", "rating": 4, "text": "يحتاج دقة في التركيب." },
+      { "name": "رغد خالد", "rating": 5, "text": "يعطي مظهر فاخر." }
     ]
   },
   {
@@ -296,24 +210,16 @@
     "rating": 5,
     "badge": "متعدد الاستخدام",
     "icon": "home",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B1%D9%81%20%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%20%D8%A8%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D9%83.png",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B1%D9%81%20%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%20%D8%A8%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D9%83.png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B1%D9%81%20%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%20%D8%A8%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D9%83.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B1%D9%81%20%D8%AB%D9%84%D8%A7%D8%AB%D9%8A.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D8%AC%D9%85%D8%B9%20%D8%AE%D8%B6%D8%A7%D8%B1.jpeg"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B1%D9%81%20%D8%AB%D9%84%D8%A7%D8%AB%D9%8A%20%D8%A8%D9%84%D8%A7%D8%B3%D8%AA%D9%8A%D9%83.png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B1%D9%81%20%D8%AB%D9%84%D8%A7%D8%AB%D9%8A.png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D8%AC%D9%85%D8%B9%20%D8%AE%D8%B6%D8%A7%D8%B1.jpeg"
     ],
-    "description": "رف بلاستيك ثلاثي الطبقات عملي ومتعدد الاستخدامات، مناسب للمطبخ والحمام على حد سواء. يمكن استخدامه لتنظيم الخضروات والفواكه وأدوات المطبخ، أو لترتيب مستلزمات الحمام مثل الشامبو، الصابون، والمناشف. مصنوع من بلاستيك متين مقاوم للرطوبة، خفيف الوزن، سهل التركيب والتنظيف، ويتميز بتصميم أنيق يساعد على توفير المساحة وتنظيم المكان.",
+    "description": "رف بلاستيك عملي لتنظيم المطبخ أو الحمام.",
     "reviews": [
-      {
-        "name": "أحمد سامي",
-        "rating": 5,
-        "text": "رف ممتاز، متين وسهل التركيب، ساعدني كثيرًا في ترتيب المطبخ."
-      },
-      {
-        "name": "منى حسين",
-        "rating": 4,
-        "text": "تصميم عملي ومفيد في الحمام، البلاستيك جيد بشكل عام."
-      }
+      { "name": "أحمد سامي", "rating": 5, "text": "متين وسهل التركيب." },
+      { "name": "منى حسين", "rating": 4, "text": "عملي جداً." }
     ]
   },
   {
@@ -324,13 +230,13 @@
     "rating": 5,
     "badge": "",
     "icon": "kitchen",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B7%D9%82%D9%85%20%D8%B5%D8%AD%D9%88%D9%86%20%D8%B4%D9%88%D8%B1%D8%A8%D8%A9.png ",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B7%D9%82%D9%85%20%D8%B5%D8%AD%D9%88%D9%86%20%D8%B4%D9%88%D8%B1%D8%A8%D8%A9.png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B7%D9%82%D9%85%20%D8%B5%D8%AD%D9%88%D9%86%20%D8%B4%D9%88%D8%B1%D8%A8%D8%A9.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B7%D9%82%D9%85%20%D8%B5%D8%AD%D9%88%D9%861.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B7%D9%82%D9%85%20%D8%B5%D8%AD%D9%88%D9%86.png"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B7%D9%82%D9%85%20%D8%B5%D8%AD%D9%88%D9%86%20%D8%B4%D9%88%D8%B1%D8%A8%D8%A9.png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B7%D9%82%D9%85%20%D8%B5%D8%AD%D9%88%D9%861.png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B7%D9%82%D9%85%20%D8%B5%D8%AD%D9%88%D9%86.png"
     ],
-    "description": "طقم أوعية متعددة الألوان (3 قطع) مناسب لتقديم السلطة والشوربة والحساء. مصنوع من مواد آمنة للطعام وسهل التنظيف، بألوان زاهية تضيف لمسة جميلة للمائدة.",
+    "description": "طقم أوعية متعددة الألوان مناسب لتقديم الطعام.",
     "reviews": []
   },
   {
@@ -341,32 +247,17 @@
     "rating": 5,
     "icon": "sparkles",
     "badge": "",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D9%86%D8%B4%D8%B1%20%D8%AF%D8%A7%D8%AE%D9%84%D9%8A.png",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D9%86%D8%B4%D8%B1%20%D8%AF%D8%A7%D8%AE%D9%84%D9%8A.png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D9%86%D8%B4%D8%B1%20%D8%AF%D8%A7%D8%AE%D9%84%D9%8A.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D9%86%D8%B4%D8%B1%20%D8%BA%D8%B3%D9%8A%D9%84%20%D8%AF%D8%A7%D8%AE%D9%84%D9%8A.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D9%86%D8%B4%D8%B1%20%D8%BA%D8%B3%D9%8A%D9%84%20%D8%AF%D8%A7%D8%AE%D9%84%D9%8A.jpeg"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D9%86%D8%B4%D8%B1%20%D8%AF%D8%A7%D8%AE%D9%84%D9%8A.png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D9%86%D8%B4%D8%B1%20%D8%BA%D8%B3%D9%8A%D9%84%20%D8%AF%D8%A7%D8%AE%D9%84%D9%8A.png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D9%86%D8%B4%D8%B1%20%D8%BA%D8%B3%D9%8A%D9%84%20%D8%AF%D8%A7%D8%AE%D9%84%D9%8A.jpeg"
     ],
-    "description": "منشر ملابس بلاستيكي من ماركة \"دوودي\" متعدد الألوان (أزرق، وردي، أخضر)، يتميز بعدد كافي من المشابك لتعليق الكثير من القطع في مساحة صغيرة. مناسب لتجفيف الملابس الصغيرة مثل الملابس الداخلية والجوارب وملابس الأطفال، خفيف الوزن وسهل التخزين.",
+    "description": "منشر ملابس بلاستيكي متعدد الاستخدام وخفيف الوزن.",
     "reviews": [
-      {
-        "name": "سجى",
-        "rating": 5,
-        "text": "ممتاز جدًا! يتسع لكل ملابسي الصغيرة ويوفر مساحة كبيرة.",
-        "date": "2025-12-05"
-      },
-      {
-        "name": "ملك",
-        "rating": 4,
-        "text": "جودة البلاستيك جيدة والمشابك قوية، الحجم مناسب للاستخدام اليومي.",
-        "date": "2025-12-04"
-      },
-      {
-        "name": "أم محمد",
-        "rating": 4,
-        "text": "خفيف وسهل الحمل، ألوانه جميلة، أنصح به للأسر الصغيرة.",
-        "date": "2025-12-08"
-      }
+      { "name": "سجى", "rating": 5, "text": "ممتاز جدًا ويوفر مساحة." },
+      { "name": "ملك", "rating": 4, "text": "جيد للاستخدام اليومي." },
+      { "name": "أم محمد", "rating": 4, "text": "خفيف وسهل الحمل." }
     ]
   },
   {
@@ -377,28 +268,16 @@
     "rating": 5,
     "badge": "الأكثر مبيعاً",
     "icon": "kitchen",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%82%D9%84%D8%A7%D9%8A%D8%A9%20%D9%83%D8%B1%D9%8A%D8%A8.png",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%82%D9%84%D8%A7%D9%8A%D8%A9%20%D9%83%D8%B1%D9%8A%D8%A8.png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%82%D9%84%D8%A7%D9%8A%D8%A9%20%D9%83%D8%B1%D9%8A%D8%A8.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%82%D9%84%D8%A7%D9%8A%D8%A9%20%D9%83%D8%B1%D9%8A%D8%A8.jpg"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%82%D9%84%D8%A7%D9%8A%D8%A9%20%D9%83%D8%B1%D9%8A%D8%A8.png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%82%D9%84%D8%A7%D9%8A%D8%A9%20%D9%83%D8%B1%D9%8A%D8%A8.jpg"
     ],
-    "description": "مقلاة كريب غير لاصقة مصممة لصنع الكريب بسهولة وسرعة. تتميز بسطح متين يمنع الالتصاق، وحجم مناسب للطهي اليومي. سهلة التنظيف وتوفر توزيعًا متساويًا للحرارة لضمان نتائج مثالية.",
+    "description": "مقلاة غير لاصقة لصنع الكريب بسهولة.",
     "reviews": [
-      {
-        "name": "سارة محمود",
-        "rating": 5,
-        "text": "مقلاة ممتازة! الكريب يطهى بسرعة وسطحها لا يلتصق."
-      },
-      {
-        "name": " علي",
-        "rating": 4,
-        "text": "جودة جيدة وحجم مناسب، لكن يفضل استخدام ملعقة خشبية."
-      },
-      {
-        "name": "أم عدي ",
-        "rating": 5,
-        "text": "سهلة التنظيف وتعطي نتائج رائعة، أنصح بها."
-      }
+      { "name": "سارة محمود", "rating": 5, "text": "ممتازة جدًا." },
+      { "name": "علي", "rating": 4, "text": "جيدة وسهلة الاستخدام." },
+      { "name": "أم عدي", "rating": 5, "text": "نتائج رائعة." }
     ]
   },
   {
@@ -409,12 +288,12 @@
     "rating": 5,
     "badge": "",
     "icon": "kitchen",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D9%82%D9%84%D8%A7%D8%A9.png",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D9%82%D9%84%D8%A7%D8%A9.png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D9%82%D9%84%D8%A7%D8%A9.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D9%82%D9%84%D8%A7%D8%A9.jpeg"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D9%82%D9%84%D8%A7%D8%A9.png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D9%82%D9%84%D8%A7%D8%A9.jpeg"
     ],
-    "description": "مقلاة تايلاندي عالية الجودة مصممة للطهي الاحترافي، مناسبة للطهي السريع والتقليب. مصنوعة من مواد متينة توفر توزيع حرارة متساوي وتمنع الالتصاق، سهلة التنظيف ومثالية لجميع أنواع الأطعمة.",
+    "description": "مقلاة للطهي السريع والتقليب.",
     "reviews": []
   },
   {
@@ -425,461 +304,324 @@
     "rating": 5,
     "badge": "مميز",
     "icon": "home",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%AE%D8%B2%D8%A7%D9%86%D8%A9%20%D9%85%D9%84%D8%A7%D8%A8%D8%B3.png",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%AE%D8%B2%D8%A7%D9%86%D8%A9%20%D9%85%D9%84%D8%A7%D8%A8%D8%B3.png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%AE%D8%B2%D8%A7%D9%86%D8%A9%20%D9%85%D9%84%D8%A7%D8%A8%D8%B3.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%AE%D8%B2%D8%A7%D9%86%D8%A9%20%D9%85%D9%84%D8%A7%D8%A8%D8%B3.webp"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%AE%D8%B2%D8%A7%D9%86%D8%A9%20%D9%85%D9%84%D8%A7%D8%A8%D8%B3.png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%AE%D8%B2%D8%A7%D9%86%D8%A9%20%D9%85%D9%84%D8%A7%D8%A8%D8%B3.webp"
     ],
-    "description": "خزانة ملابس قماشية كبيرة بمقاس 125 سم، مزودة بأرفف متعددة وقضيب لتعليق الملابس. عملية وخفيفة وسهلة التركيب، وتساعدك على تنظيم الملابس والأغراض بطريقة مرتبة وفعّالة. مثالية للغرف الصغيرة أو للاستخدام المؤقت.",
+    "description": "خزانة قماشية كبيرة لتنظيم الملابس.",
     "reviews": [
-      {
-        "name": "إيمان",
-        "rating": 5,
-        "text": "عملية كثير ووسعت كل الملابس عندي، تركيبها سهل."
-      },
-      {
-        "name": "نور",
-        "rating": 4,
-        "text": "شكلها مرتب وحلو وخفيفة، بس يفضل تثبيتها بالجدار."
-      }
+      { "name": "إيمان", "rating": 5, "text": "عملية جداً." },
+      { "name": "نور", "rating": 4, "text": "خفيفة وسهلة التركيب." }
     ]
   },
   {
     "id": 16,
-    "name": "  مكتب أطفال تعليمي",
+    "name": "مكتب أطفال تعليمي",
     "category": "أدوات منزلية",
     "price": 55,
     "rating": 5,
     "badge": "مميز",
     "icon": "home",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D9%83%D8%AA%D8%A8%20%D8%A7%D8%B7%D9%81%D8%A7%D9%84.png",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D9%83%D8%AA%D8%A8%20%D8%A7%D8%B7%D9%81%D8%A7%D9%84.png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D9%83%D8%AA%D8%A8%20%D8%A7%D8%B7%D9%81%D8%A7%D9%84.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D9%83%D8%AA%D8%A8%20%D8%A7%D8%B7%D9%81%D8%A7%D9%84.jpeg",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D9%83%D8%AA%D8%A8.jpeg"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D9%83%D8%AA%D8%A8%20%D8%A7%D8%B7%D9%81%D8%A7%D9%84.png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D9%83%D8%AA%D8%A8%20%D8%A7%D8%B7%D9%81%D8%A7%D9%84.jpeg",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D9%83%D8%AA%D8%A8.jpeg"
     ],
-    "description": "مكتب أطفال تعليمي مميز ✏️\nمزود بأماكن للأقلام وسطح للكتابة\nمتوفر بألوان جذابة ومناسبة للدراسة واللعب 🎨📚\nخيار مثالي لتحفيز الطفل على التعلم!",
+    "description": "مكتب تعليمي للأطفال مزود بمساحات تنظيم.",
     "reviews": [
-      {
-        "name": "ليلى",
-        "rating": 5,
-        "text": "مكتب رائع، طفلي يحب الكتابة والرسم عليه كل يوم."
-      }
+      { "name": "ليلى", "rating": 5, "text": "طفلي يحبه جداً." }
     ]
   },
   {
     "id": 17,
-    "name": "        طقم صبانة للمجلى ",
+    "name": "طقم صبانة للمجلى",
     "category": "نظافة",
     "price": 25,
     "rating": 5,
     "badge": "",
     "icon": "sparkles",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%AC%D9%84%D9%8A.png",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%AC%D9%84%D9%8A.png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%AC%D9%84%D9%8A.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%5B%D8%AC%D9%84%D9%8A.jpeg"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%AC%D9%84%D9%8A.png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%5B%D8%AC%D9%84%D9%8A.jpeg"
     ],
-    "description": "طقم صبانة عملي للمجلى، يحتوي على حامل مزدوج للصابون والإسفنجة، سهل التنظيف ويساعد على ترتيب أدوات الغسيل بشكل أنيق وعملي.",
+    "description": "حامل صابون عملي للمجلى.",
     "reviews": []
   },
   {
     "id": 18,
-    "name": "          منشر غسيل ",
+    "name": "منشر غسيل",
     "category": "نظافة",
     "price": 270,
     "rating": 5,
     "badge": "",
     "icon": "sparkles",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D9%86%D8%B4%D8%B1.png",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D9%86%D8%B4%D8%B1.png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D9%86%D8%B4%D8%B1.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D9%86%D8%B4%D8%B1%20%D8%BA%D8%B3%D9%8A%D9%84.jpg"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D9%86%D8%B4%D8%B1.png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D9%86%D8%B4%D8%B1%20%D8%BA%D8%B3%D9%8A%D9%84.jpg"
     ],
-    "description": "منشر غسيل عملي ومتين، يوفر مساحة واسعة لتجفيف الملابس بسرعة وكفاءة. تصميم متين وسهل الاستخدام، مناسب لكل أنواع الغسيل.",
+    "description": "منشر غسيل عملي ومتين يوفر مساحة واسعة لتجفيف الملابس.",
     "reviews": []
   },
   {
     "id": 19,
-    "name": "  سلال خضار بلاستيك متعددة الطوابق",
+    "name": "سلال خضار بلاستيك متعددة الطوابق",
     "category": "مطبخ",
     "price": 120,
     "rating": 5,
     "badge": "",
     "icon": "kitchen",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B3%D9%84%D8%A7%D9%84%20%D8%AE%D8%B6%D8%A7%D8%B1.png",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B3%D9%84%D8%A7%D9%84%20%D8%AE%D8%B6%D8%A7%D8%B1.png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B3%D9%84%D8%A7%D9%84%20%D8%AE%D8%B6%D8%A7%D8%B1.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B3%D9%84%D8%A7%D9%84.jpeg"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B3%D9%84%D8%A7%D9%84%20%D8%AE%D8%B6%D8%A7%D8%B1.png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B3%D9%84%D8%A7%D9%84.jpeg"
     ],
-    "description": "سلال خضار بلاستيك متعددة الطوابق بتصميم عملي يساعد على تنظيم المطبخ بطريقة مرتبة وأنيقة. مصنوعة من البلاستيك المتين عالي الجودة، تتحمل الوزن وتسمح بمرور الهواء للحفاظ على الخضار والفواكه طازجة لفترة أطول. مناسبة لحفظ البطاطا، البصل، الفواكه، أو المستلزمات المتنوعة. سهلة التنظيف ويمكن استخدامها في المطبخ أو المخزن.",
+    "description": "سلال خضار متعددة الطوابق لتنظيم المطبخ وحفظ الخضار والفواكه.",
     "reviews": []
   },
   {
     "id": 20,
-    "name": " منشر صحون 2 طابق مع حافظة معالق",
+    "name": "منشر صحون 2 طابق مع حافظة معالق",
     "category": "مطبخ",
     "price": 110,
     "rating": 5,
     "badge": "",
     "icon": "kitchen",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B5%D8%AD%D9%88%D9%86%20%D8%A7%D9%84%D8%AC%D9%84%D9%8A.png",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B5%D8%AD%D9%88%D9%86%20%D8%A7%D9%84%D8%AC%D9%84%D9%8A.png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B5%D8%AD%D9%88%D9%86%20%D8%A7%D9%84%D8%AC%D9%84%D9%8A.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%84%D9%84%D8%B5%D8%AD%D9%88%D9%86.jpg",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D8%B4%D9%83%20%D8%B5%D8%AD%D9%88%D9%86.jpeg"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B5%D8%AD%D9%88%D9%86%20%D8%A7%D9%84%D8%AC%D9%84%D9%8A.png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%84%D9%84%D8%B5%D8%AD%D9%88%D9%86.jpg",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D8%B4%D9%83%20%D8%B5%D8%AD%D9%88%D9%86.jpeg"
     ],
-    "description": "منشر صحون بلاستيك مكوّن من طابقين بتصميم عملي يساعد على ترتيب الصحون والأكواب بعد الغسيل. يحتوي على حامل جانبي للمعالق وصينية لتجميع الماء لمنع التسريب، خفيف الوزن وسهل التنظيف ومناسب لجميع المطابخ.",
+    "description": "منشر صحون بطابقين مع حافظة معالق وصينية لتجميع الماء.",
     "reviews": [
-      {
-        "name": "سارة",
-        "rating": 5,
-        "text": "جودته ممتازة وساعدني كثير في ترتيب الصحون بكل سهولة."
-      },
-      {
-        "name": "ليان",
-        "rating": 5,
-        "text": "خفيف وعملي جدًا، أفضل مناشف استخدمته لحد الآن."
-      },
-      {
-        "name": "أحمد",
-        "rating": 4,
-        "text": "جميل وعملي لكن كنت أتمنى يكون أكبر حجم قليلًا."
-      }
+      { "name": "سارة", "rating": 5, "text": "عملي جداً." },
+      { "name": "ليان", "rating": 5, "text": "ممتاز لترتيب المطبخ." },
+      { "name": "أحمد", "rating": 4, "text": "جيد لكن الحجم متوسط." }
     ]
   },
   {
     "id": 21,
-    "name": "    كاسات أطفال ",
+    "name": "كاسات أطفال",
     "category": "مطبخ",
     "price": 10,
     "rating": 5,
     "badge": "",
     "icon": "kitchen",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%83%D8%A7%D8%B3%D8%A7%D8%AA%20%D8%A7%D8%B7%D9%81%D8%A7%D9%84.png",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%83%D8%A7%D8%B3%D8%A7%D8%AA%20%D8%A7%D8%B7%D9%81%D8%A7%D9%84.png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%83%D8%A7%D8%B3%D8%A7%D8%AA%20%D8%A7%D8%B7%D9%81%D8%A7%D9%84.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%83%D9%88%D8%A8%20%D8%A7%D8%B7%D9%81%D8%A7%D9%84.avif"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%83%D8%A7%D8%B3%D8%A7%D8%AA%20%D8%A7%D8%B7%D9%81%D8%A7%D9%84.png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%83%D9%88%D8%A8%20%D8%A7%D8%B7%D9%81%D8%A7%D9%84.avif"
     ],
-    "description": "كاسات أطفال مزودة بشفاط بتصميم مرح يجذب الأطفال، مصنوعة من خامة آمنة وصحية وخالية من الروائح. مناسبة للماء والعصائر وتساعد الأطفال على الشرب بسهولة دون انسكاب. تأتي بألوان وأشكال جميلة تجعلها الخيار المثالي للاستخدام اليومي في المنزل والمدرسة.",
+    "description": "كاسات أطفال بشفاط آمنة وسهلة الاستخدام للأطفال.",
     "reviews": [
-      {
-        "name": "سماح",
-        "text": "جودة رائعة، ابني أحب التصميم وما عاد يسكب العصير."
-      },
-      {
-        "name": "خالد",
-        "text": "خفيفة وآمنة للأطفال، والشفاط عملي جدًا."
-      },
-      {
-        "name": "رهف",
-        "text": "ألوانها جميلة وسهلة التنظيف، منتج ممتاز فعلاً."
-      }
+      { "name": "سماح", "rating": 5, "text": "رائعة للأطفال." },
+      { "name": "خالد", "rating": 5, "text": "عملية جداً." },
+      { "name": "رهف", "rating": 4, "text": "جيدة ومناسبة." }
     ]
   },
   {
     "id": 22,
-    "name": "            ملاقط غسيل ",
+    "name": "ملاقط غسيل",
     "category": "نظافة",
     "price": 15,
     "rating": 5,
     "badge": "",
     "icon": "sparkles",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D9%84%D8%A7%D9%82%D8%B7%20%D8%BA%D8%B3%D9%8A%D9%84.png",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D9%84%D8%A7%D9%82%D8%B7%20%D8%BA%D8%B3%D9%8A%D9%84.png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D9%84%D8%A7%D9%82%D8%B7%20%D8%BA%D8%B3%D9%8A%D9%84.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D9%84%D8%A7%D9%82%D8%B7.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D9%84%D8%A7%D9%82%D8%B7.jpeg"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D9%84%D8%A7%D9%82%D8%B7%20%D8%BA%D8%B3%D9%8A%D9%84.png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D9%84%D8%A7%D9%82%D8%B7.png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D9%84%D8%A7%D9%82%D8%B7.jpeg"
     ],
-    "description": "ملاقط غسيل عالية الجودة، متوفرة بأحجام وألوان متنوعة. مصنوعة من خامة قوية تتحمل الاستخدام اليومي وتمسك الملابس بإحكام دون أن تترك آثاراً. مثالية للاستخدام في الهواء الطلق أو داخل المنزل، وتساعد على تثبيت الغسيل بطريقة آمنة ومنظمة.",
+    "description": "ملاقط غسيل قوية ومتينة للاستخدام اليومي.",
     "reviews": []
   },
   {
     "id": 23,
-    "name": "      علاقات ملابس  ",
+    "name": "علاقات ملابس",
     "category": "أدوات منزلية",
     "price": 20,
     "rating": 5,
     "badge": "",
     "icon": "home",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA%20%D9%85%D9%84%D8%A7%D8%A8%D8%B3.png",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA%20%D9%85%D9%84%D8%A7%D8%A8%D8%B3.png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA%20%D9%85%D9%84%D8%A7%D8%A8%D8%B3.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA.jpeg"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA%20%D9%85%D9%84%D8%A7%D8%A8%D8%B3.png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B9%D9%84%D8%A7%D9%82%D8%A7%D8%AA.jpeg"
     ],
-    "description": "علاقات ملابس قوية ومتينة، متوفرة بأنواع وألوان متعددة لتناسب مختلف الاستخدامات. مصنوعة من خامة عالية الجودة تتحمل الوزن وتعطي ترتيباً أنيقاً للخزانة. مثالية لتعليق الملابس اليومية والملابس الثقيلة دون انزلاق.",
+    "description": "علاقات ملابس قوية ومتينة لترتيب الخزانة.",
     "reviews": [
-      {
-        "name": "هبة",
-        "rating": 5,
-        "text": "جودتها رائعة وما بتنكسر، اشتريت مجموعة وكانت ممتازة."
-      },
-      {
-        "name": "ليلى",
-        "rating": 5,
-        "text": "ألوانها جميلة وبتحمل الملابس الثقيلة بدون ما تنحني."
-      },
-      {
-        "name": "علي",
-        "rating": 4,
-        "text": "عملية وسعرها مناسب جداً، أنصح الجميع بتجربتها."
-      }
+      { "name": "هبة", "rating": 5, "text": "جودة ممتازة." },
+      { "name": "ليلى", "rating": 5, "text": "ممتازة للملابس الثقيلة." },
+      { "name": "علي", "rating": 4, "text": "سعر مناسب." }
     ]
   },
   {
     "id": 24,
-    "name": "    علب فشار ",
+    "name": "علب فشار",
     "category": "مطبخ",
     "price": 10,
     "rating": 5,
     "badge": "",
     "icon": "kitchen",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B9%D9%84%D8%A8%20%D9%81%D8%B4%D8%A7%D8%B1.png",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B9%D9%84%D8%A8%20%D9%81%D8%B4%D8%A7%D8%B1.png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B9%D9%84%D8%A8%20%D9%81%D8%B4%D8%A7%D8%B1.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%83%D9%88%D8%A8%20%D8%B0%D8%B1%D8%A9%20%D9%81%D8%B4%D8%A7%D8%B1.avif"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B9%D9%84%D8%A8%20%D9%81%D8%B4%D8%A7%D8%B1.png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%83%D9%88%D8%A8%20%D8%B0%D8%B1%D8%A9%20%D9%81%D8%B4%D8%A7%D8%B1.avif"
     ],
-    "description": "علب فشار عملية ومتينة تأتي بأحجام وأشكال مختلفة، مناسبة لتقديم الفشار في البيت أو المناسبات. مصنوعة من خامة آمنة وخفيفة، وتضفي مظهراً أنيقاً وممتعاً على التقديم. مثالية للحفلات، السينما المنزلية، وأوقات الترفيه مع العائلة.",
+    "description": "علب تقديم فشار للمناسبات والحفلات.",
     "reviews": [
-      {
-        "name": "منى",
-        "rating": 5,
-        "text": "عملية جداً وشكلها مرتب، استخدمتها في حفلة وكانت رائعة."
-      },
-      {
-        "name": "أبو كريم",
-        "rating": 5,
-        "text": "السعر ممتاز والجودة أحسن من المتوقع، أنصح فيها."
-      },
-      {
-        "name": "دلال",
-        "rating": 4,
-        "text": "ألوانها جميلة وتاخذ كمية ممتازة من الفشار."
-      }
+      { "name": "منى", "rating": 5, "text": "شكلها جميل جداً." },
+      { "name": "أبو كريم", "rating": 5, "text": "ممتازة للحفلات." },
+      { "name": "دلال", "rating": 4, "text": "عملية." }
     ]
   },
   {
     "id": 25,
-    "name": "     علب حفظ طعام بلاستيك (مجموعة ناڤا / NANA) ",
+    "name": "علب حفظ طعام بلاستيك (مجموعة ناڤا / NANA)",
     "category": "مطبخ",
     "price": 40,
     "rating": 5,
     "badge": "",
     "icon": "kitchen",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B9%D9%84%D8%A8%20%D8%B7%D8%B9%D8%A7%D9%851.png",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B9%D9%84%D8%A8%20%D8%B7%D8%B9%D8%A7%D9%851.png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B9%D9%84%D8%A8%20%D8%B7%D8%B9%D8%A7%D9%851.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B9%D9%84%D8%A8%20%D8%B7%D8%B9%D8%A7%D9%85.png"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B9%D9%84%D8%A8%20%D8%B7%D8%B9%D8%A7%D9%851.png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B9%D9%84%D8%A8%20%D8%B7%D8%B9%D8%A7%D9%85.png"
     ],
     "description": "علب حفظ طعام بلاستيكية شفافة بجودة عالية، تأتي بأغطية محكمة الإغلاق وألوان متعددة. مثالية لحفظ الطعام في الثلاجة والفريزر وتنظيم المطبخ. آمنة للطعام وسهلة الغسيل ومناسبة للاستخدام اليومي.",
     "reviews": [
-      {
-        "name": "منى",
-        "rating": 5,
-        "text": "عملية جداً وشكلها مرتب، استخدمتها في حفلة وكانت رائعة."
-      },
-      {
-        "name": "أبو كريم",
-        "rating": 5,
-        "text": "السعر ممتاز والجودة أحسن من المتوقع، أنصح فيها."
-      },
-      {
-        "name": "دلال",
-        "rating": 4,
-        "text": "ألوانها جميلة ومساحتها ممتازة للتخزين."
-      }
+      { "name": "منى", "rating": 5, "text": "عملية جداً وشكلها مرتب، استخدمتها في حفلة وكانت رائعة." },
+      { "name": "أبو كريم", "rating": 5, "text": "السعر ممتاز والجودة أحسن من المتوقع، أنصح فيها." },
+      { "name": "دلال", "rating": 4, "text": "ألوانها جميلة ومساحتها ممتازة للتخزين." }
     ]
   },
   {
     "id": 26,
-    "name": "     حافظة معالق وأدوات المائدة بلاستيك ",
+    "name": "حافظة معالق وأدوات المائدة بلاستيك",
     "category": "مطبخ",
     "price": 15,
     "rating": 5,
     "badge": "",
     "icon": "kitchen",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D8%B9%D8%A7%D9%84%D9%82%20%D9%88%D8%B4%D9%88%D9%83.png",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D8%B9%D8%A7%D9%84%D9%82%20%D9%88%D8%B4%D9%88%D9%83.png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D8%B9%D8%A7%D9%84%D9%82%20%D9%88%D8%B4%D9%88%D9%83.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D8%B9%D8%A7%D9%84%D9%82%20%D9%88%D8%B4%D9%88%D9%83.jpg"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D8%B9%D8%A7%D9%84%D9%82%20%D9%88%D8%B4%D9%88%D9%83.png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D8%B9%D8%A7%D9%84%D9%82%20%D9%88%D8%B4%D9%88%D9%83.jpg"
     ],
-    "description": "حافظة بلاستيكية متعددة الأقسام لتنظيم المعالق، الشوك، والسكاكين بعد الغسيل أو استخدامها لترتيب الأدوات على سطح المطبخ. مصنوعة من خامة متينة وسهلة التنظيف، وتتميز بتصميم يسمح بتصريف الماء للحفاظ على نظافة أدوات المائدة. مثالية للاستخدام اليومي في أي مطبخ وتساعد في الحفاظ على ترتيب الأواني بطريقة أنيقة وعملية.",
+    "description": "حافظة بلاستيكية متعددة الأقسام لتنظيم المعالق، الشوك، والسكاكين بعد الغسيل أو استخدامها لترتيب الأدوات على سطح المطبخ. مصنوعة من خامة متينة وسهلة التنظيف، وتتميز بتصميم يسمح بتصريف الماء.",
     "reviews": []
   },
   {
     "id": 27,
-    "name": "   ألواح الفرم ",
+    "name": "ألواح الفرم",
     "category": "مطبخ",
     "price": 25,
     "rating": 5,
     "badge": "",
     "icon": "kitchen",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%A7%D9%84%D9%88%D8%A7%D8%AD%20%D9%81%D8%B1%D9%85.png",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%A7%D9%84%D9%88%D8%A7%D8%AD%20%D9%81%D8%B1%D9%85.png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%A7%D9%84%D9%88%D8%A7%D8%AD%20%D9%81%D8%B1%D9%85.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%84%D9%88%D8%AD%D8%A9%20%D9%81%D8%B1%D9%85.png"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%A7%D9%84%D9%88%D8%A7%D8%AD%20%D9%81%D8%B1%D9%85.png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%84%D9%88%D8%AD%D8%A9%20%D9%81%D8%B1%D9%85.png"
     ],
-    "description": "ألواح فرم عملية ومتينة مصنوعة من خامات عالية الجودة وآمنة للاستخدام الغذائي. مناسبة لتقطيع الخضار، الفواكه، اللحوم والدجاج، مع سطح مقاوم للخدش وسهل التنظيف. تصميم خفيف وسهل الحمل، لا يمتص الروائح أو الألوان، ويُعد خيارًا مثاليًا للاستخدام اليومي في أي مطبخ مع الحفاظ على النظافة والتنظيم.",
+    "description": "ألواح فرم عملية ومتينة مصنوعة من خامات عالية الجودة وآمنة للاستخدام الغذائي. مناسبة لتقطيع الخضار والفواكه واللحوم.",
     "reviews": []
   },
   {
     "id": 28,
-    "name": "    مقلاة ألمنيوم ",
+    "name": "مقلاة ألمنيوم",
     "category": "مطبخ",
     "price": 90,
     "rating": 5,
     "badge": "",
     "icon": "kitchen",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%82%D9%84%D8%A7%D9%8A%D8%A9.png",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%82%D9%84%D8%A7%D9%8A%D8%A9.png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%82%D9%84%D8%A7%D9%8A%D8%A9.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D9%82%D9%84%D8%A7%D8%A91.jpeg"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%82%D9%84%D8%A7%D9%8A%D8%A9.png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D9%82%D9%84%D8%A7%D8%A91.jpeg"
     ],
-    "description": "مقلاة عملية مصنوعة من الألمنيوم المتين، تتميز بتوزيع متوازن للحرارة يساعد على طهي الطعام بشكل متساوٍ وسريع. مزودة بيد معدنية قوية لسهولة الحمل والثبات أثناء الاستخدام. مناسبة للقلي، التشويح وتحضير مختلف الأطباق اليومية. سهلة التنظيف وتتحمل الاستخدام المتكرر، مما يجعلها خيارًا عمليًا للمطابخ المنزلية والمطابخ التجارية، متوفر بجميع الأحجام.",
+    "description": "مقلاة عملية مصنوعة من الألمنيوم المتين مع توزيع حرارة متوازن.",
     "reviews": [
-      {
-        "name": "أم أحمد",
-        "rating": 5,
-        "text": "المقلاة ممتازة وتوزيع الحرارة فيها رائع، القلي يطلع مستوي بدون ما يحترق."
-      },
-      {
-        "name": "سعيد",
-        "rating": 5,
-        "text": "خفيفة وقوية بنفس الوقت، مناسبة للاستخدام اليومي وسهلة التنظيف."
-      },
-      {
-        "name": "هبة",
-        "rating": 4,
-        "text": "جودة جيدة جداً مقابل السعر، جربتها للقلي وكانت النتيجة ممتازة."
-      }
+      { "name": "أم أحمد", "rating": 5, "text": "المقلاة ممتازة وتوزيع الحرارة رائع." },
+      { "name": "سعيد", "rating": 5, "text": "خفيفة وقوية وسهلة التنظيف." },
+      { "name": "هبة", "rating": 4, "text": "جودة جيدة جداً مقابل السعر." }
     ]
   },
   {
     "id": 29,
-    "name": "     ستاند تقديم ذهبي مع غطاء أكريليك شفاف     ",
+    "name": "ستاند تقديم ذهبي مع غطاء أكريليك شفاف",
     "category": "مطبخ",
     "price": 25,
     "rating": 5,
     "badge": "",
     "icon": "kitchen",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B5%D8%AD%D9%86%20%D8%AA%D9%82%D8%AF%D9%8A%D9%83.png",
-    "description": "حامل تقديم فاخر بتصميم أرستقراطي يضفي لمسة من الأناقة على طاولة الضيافة الخاصة بك. يتميز بقاعدة ذهبية مرتفعة ذات نقوش بارزة وتصميم كلاسيكي فاخر، وغطاء أكريليك شفاف عالي الجودة يحمي الكيك والحلويات من الأتربة مع الحفاظ على مظهرها الجذاب. مثالي لتقديم الكيك، المعجنات، أو تشكيلة من الحلويات الشرقية في المناسبات الخاصة.",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B5%D8%AD%D9%86%20%D8%AA%D9%82%D8%AF%D9%8A%D9%83.png",
+    "description": "حامل تقديم فاخر بتصميم أنيق مع غطاء أكريليك شفاف.",
     "reviews": [
-      {
-        "name": "هالة",
-        "rating": 5,
-        "text": "الحامل أنيق جداً، الغطاء يحافظ على الحلويات نظيفة وجذابة."
-      },
-      {
-        "name": "نورة",
-        "rating": 5,
-        "text": "تصميم فاخر وألوان جذابة، مثالي للضيافة والمناسبات."
-      },
-      {
-        "name": "أحمد",
-        "rating": 4,
-        "text": "جودة ممتازة وسهل الاستخدام، يعطي طاولة الضيافة لمسة ملكية."
-      }
-    ],
-    "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B5%D8%AD%D9%86%20%D8%AA%D9%82%D8%AF%D9%8A%D9%83.png"
+      { "name": "هالة", "rating": 5, "text": "تصميم أنيق جداً." },
+      { "name": "نورة", "rating": 5, "text": "مثالي للضيافة." },
+      { "name": "أحمد", "rating": 4, "text": "جودة ممتازة." }
     ]
   },
   {
     "id": 30,
-    "name": "     قدر الألمنيوم \"العملاق\"   ",
+    "name": "قدر الألمنيوم \"العملاق\"",
     "category": "مطبخ",
     "price": 100,
     "rating": 5,
     "badge": "",
     "icon": "kitchen",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B7%D9%86%D8%AC%D8%B1%D8%A9.png",
-    "description": "الخيار الأمثل لتحضير أشهى الوجبات العائلية والولائم الكبيرة. مصنوع من الألمنيوم عالي النقاء لضمان توزيع الحرارة بالتساوي وطهي مثالي، مع مقابض جانبية متينة وغطاء محكم للحفاظ على نكهة الطعام وسرعة النضج. تصميم متين يتحمل الاستخدام المكثف وسهل التنظيف، ليضمن لك تجربة طهي مثالية في كل مرة.",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B7%D9%86%D8%AC%D8%B1%D8%A9.png",
+    "description": "قدر ألمنيوم كبير الحجم مناسب للولائم والعزائم.",
     "reviews": [
-      {
-        "name": "أمينة",
-        "rating": 5,
-        "text": "قدر ضخم ومتين، مثالي للولائم والعزائم العائلية."
-      },
-      {
-        "name": "مصطفى",
-        "rating": 5,
-        "text": "جودة عالية وتوزيع حرارة ممتاز، الطبخ صار أسرع."
-      },
-      {
-        "name": "هند",
-        "rating": 4,
-        "text": "متين وسهل التنظيف، لكنه ثقيل قليلاً عند الحمل."
-      }
-    ],
-    "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B7%D9%86%D8%AC%D8%B1%D8%A9.png"
+      { "name": "أمينة", "rating": 5, "text": "ممتاز للولائم." },
+      { "name": "مصطفى", "rating": 5, "text": "توزيع حرارة رائع." },
+      { "name": "هند", "rating": 4, "text": "ثقيل قليلاً لكنه متين." }
     ]
   },
   {
     "id": 31,
-    "name": "    صينية فرن زجاجية (بايركس) دائرية مقاومة للحرارة   ",
+    "name": "صينية فرن زجاجية (بايركس) دائرية مقاومة للحرارة",
     "category": "مطبخ",
     "price": 45,
     "rating": 5,
     "badge": "",
     "icon": "kitchen",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B5%D8%AD%D9%86%20%D8%AF%D8%AC%D8%A7%D8%AC1.png",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B5%D8%AD%D9%86%20%D8%AF%D8%AC%D8%A7%D8%AC1.png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B5%D8%AD%D9%86%20%D8%AF%D8%AC%D8%A7%D8%AC1.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B5%D8%AD%D9%86%20%D8%AF%D8%AC%D8%A7%D8%AC.png"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B5%D8%AD%D9%86%20%D8%AF%D8%AC%D8%A7%D8%AC1.png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B5%D8%AD%D9%86%20%D8%AF%D8%AC%D8%A7%D8%AC.png"
     ],
-    "description": "صينية فرن زجاجية عالية الجودة من علامة Tefolina الشهيرة، مصنوعة من زجاج مقوى مخصص للاستخدام داخل الأفران (Ovenware). تتميز بتصميم دائري عصري مع حواف مزخرفة تضيف لمسة جمالية عند التقديم المباشر على السفرة. مثالية لشواء الدجاج، الخضروات، وإعداد الصواني المحمرة، وتضمن توزيعاً متساوياً للحرارة وسهولة في التنظيف. تأتي مع ملصق توضيحي يبرز إمكانيات الطهي والتقديم الفاخر.",
+    "description": "صينية فرن زجاجية عالية الجودة مقاومة للحرارة.",
     "reviews": [
-      {
-        "name": "مريم",
-        "rating": 5,
-        "text": "صينية رائعة، توزيع الحرارة ممتاز وتنظيفها سهل جداً."
-      },
-      {
-        "name": "رامي",
-        "rating": 5,
-        "text": "التصميم جذاب والمواد عالية الجودة، استخدمتها للشوي والفرن وكانت ممتازة."
-      },
-      {
-        "name": "هدى",
-        "rating": 4,
-        "text": "عملية وعملية للفرن، لكن الحواف المزخرفة تحتاج قليلاً للحذر أثناء التنظيف."
-      }
+      { "name": "مريم", "rating": 5, "text": "ممتازة في الفرن." },
+      { "name": "رامي", "rating": 5, "text": "جودة عالية." },
+      { "name": "هدى", "rating": 4, "text": "تحتاج حذر في التنظيف." }
     ]
   },
   {
     "id": 32,
-    "name": "    طقم كاسات شاي أنيق – تصاميم متنوعة ",
+    "name": "طقم كاسات شاي أنيق – تصاميم متنوعة",
     "category": "مطبخ",
     "price": 20,
     "rating": 5,
     "badge": "",
     "icon": "kitchen",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%83%D8%A7%D8%B3%D8%A7%D8%AA%20%D8%B4%D8%A7%D9%8A.png",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%83%D8%A7%D8%B3%D8%A7%D8%AA%20%D8%B4%D8%A7%D9%8A.png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%83%D8%A7%D8%B3%D8%A7%D8%AA%20%D8%B4%D8%A7%D9%8A.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%83%D8%A7%D8%B3%D8%A7%D8%AA%20%D8%B4%D8%A7%D9%8A%202%20.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%83%D8%A7%D8%B3%D8%A7%D8%AA%20%D8%B4%D8%A7%D9%8A%203.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%83%D8%A7%D8%B3%D8%A7%D8%AA%20%D8%B4%D8%A7%D9%8A%204.png"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%83%D8%A7%D8%B3%D8%A7%D8%AA%20%D8%B4%D8%A7%D9%8A.png",
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%83%D8%A7%D8%B3%D8%A7%D8%AA%20%D8%B4%D8%A7%D9%8A%202%20.png"
     ],
-    "description": "طقم كاسات شاي أنيق وعصري متوفر بتشكيلة واسعة من الأشكال والأحجام ليناسب جميع الأذواق. مصنوع من زجاج عالي الجودة يتحمل الاستخدام اليومي ويمنح تجربة شاي مميزة. تصميمه الجميل يجعله مثالياً للتقديم اليومي أو للضيافة، ويضيف لمسة فخامة إلى طاولة الشاي لديك.",
+    "description": "كاسات شاي أنيقة من زجاج عالي الجودة.",
     "reviews": [
-      {
-        "name": "أم حسن",
-        "rating": 5,
-        "text": "كاسات جميلة جداً والزجاج قوي، مناسبة للضيافة."
-      },
-      {
-        "name": "سعاد",
-        "rating": 5,
-        "text": "أشكالها أنيقة وتناسب كل الأوقات، سعرها ممتاز."
-      },
-      {
-        "name": "أسماء ",
-        "rating": 4,
-        "text": "جودة جيدة وحجمها عملي لشرب الشاي."
-      }
+      { "name": "أم حسن", "rating": 5, "text": "جميلة جداً." },
+      { "name": "سعاد", "rating": 5, "text": "أنها أنيقة." },
+      { "name": "أسماء", "rating": 4, "text": "مناسبة للاستخدام." }
     ]
   },
   {
@@ -891,32 +633,15 @@
     "rating": 5,
     "badge": "عرض",
     "icon": "kitchen",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%AD%D8%A7%D9%81%D8%B8%20%D8%AD%D8%B1%D8%A7%D8%B1%D8%A92.png",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%AD%D8%A7%D9%81%D8%B8%20%D8%AD%D8%B1%D8%A7%D8%B1%D8%A92.png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%AD%D8%A7%D9%81%D8%B8%20%D8%AD%D8%B1%D8%A7%D8%B1%D8%A92.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%AD%D8%A7%D9%81%D8%B8%20%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9%203.jpg",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%AC%D8%A7%D9%81%D8%B8%20%D8%AD%D8%B1%D8%A7%D8%B1%D8%A93.jpg",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%AD%D8%A7%D9%81%D8%B8%20%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9%202.jpg",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%AD%D8%A7%D9%81%D8%B8%20%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9%205.jpg",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%AD%D8%A7%D9%81%D8%B8%20%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9%201.png"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%AD%D8%A7%D9%81%D8%B8%20%D8%AD%D8%B1%D8%A7%D8%B1%D8%A92.png"
     ],
-    "description": "حافظ سوائل (ترمس) حراري موديل Vitality بتصميم عصري وأنيق يتميز بتدرج لوني جذاب (أومبري) بين الأبيض وألوان متعددة مثل الأسود، الوردي، والأزرق. مزود بغطاء محكم مع آلية قفل أمان لمنع التسريب، ويحافظ على المشروبات الساخنة أو الباردة لفترة مناسبة. مثالي للاستخدام اليومي في العمل، الجامعة، أو أثناء السفر والرحلات.",
+    "description": "ترمس حراري بتصميم عصري يحافظ على حرارة المشروبات.",
     "reviews": [
-      {
-        "name": "رغد ",
-        "rating": 5,
-        "text": "يحافظ على حرارة المشروب لفترة طويلة، والتصميم جميل جداً."
-      },
-      {
-        "name": "يقين",
-        "rating": 5,
-        "text": "خفيف وسهل الحمل، لا يسرب أبداً، أنصح به."
-      },
-      {
-        "name": "أميرة",
-        "rating": 4,
-        "text": "جودة جيدة وشكل أنيق، مناسب للاستخدام اليومي."
-      }
+      { "name": "رغد", "rating": 5, "text": "يحافظ على الحرارة." },
+      { "name": "يقين", "rating": 5, "text": "لا يسرب." },
+      { "name": "أميرة", "rating": 4, "text": "جيد للاستخدام." }
     ]
   },
   {
@@ -928,537 +653,317 @@
     "rating": 5,
     "badge": "عرض",
     "icon": "kitchen",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA%20%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9.png",
+    "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA%20%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9.png",
     "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA%20%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%AD%D8%A7%D9%81%D8%B8%20%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9%20%206.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%AD%D8%A7%D9%81%D8%B8%20%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9%207.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%AD%D8%A7%D9%81%D8%B8%20%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9%208.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%AD%D8%A7%D9%81%D8%B8%20%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9%209.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%AD%D8%A7%D9%81%D8%B8%20%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9%2010.png"
+      "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%AD%D8%A7%D9%81%D8%B8%D8%A7%D8%AA%20%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9.png"
     ],
-    "description": "حافظات سوائل حرارية أنيقة وملونة بتصاميم كرتونية محببة للأطفال (شخصية Labubu). مصممة للحفاظ على حرارة أو برودة المشروبات لفترة مناسبة، ومزودة بأغطية محكمة الإغلاق لمنع التسريب. متوفرة بألوان متعددة مثل الأحمر، الأسود، الأبيض، الوردي، والأخضر، وتعد خياراً مثالياً للاستخدام اليومي في المدرسة أو أثناء الرحلات.",
-    "reviews": [
-      {
-        "name": "أم أحمد",
-        "rating": 5,
-        "text": "رائعة للأطفال، لا تسرب وتحافظ على حرارة الماء."
-      },
-      {
-        "name": "أم تولين",
-        "rating": 5,
-        "text": "التصاميم جميلة جداً والطفل يحبها للمدرسة."
-      },
-      {
-        "name": "أم ياسر",
-        "rating": 4,
-        "text": "جودة جيدة وحجمها مناسب للحقيبة المدرسية."
-      }
-    ]
+    "description": "مطارات حرارية للأطفال بتصاميم كرتونية.",
+    "reviews": []
   },
   {
-    "id": 35,
-    "name": "إندومي كاسات – تشكيلة نكهات متنوعة",
-    "category": "مواد غذائية",
-    "price": 5,
-    "rating": 5,
-    "icon": "bag",
-    "badge": "الأكثر مبيعًا",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%A7%D9%86%D8%AF%D9%88%D9%85%D9%8A.png",
-    "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%A7%D9%86%D8%AF%D9%88%D9%85%D9%8A.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%A7%D9%86%D8%AF%D9%88%D9%85%D9%8A%20%D8%AE%D8%B6%D8%A7%D8%B1.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%A7%D9%86%D8%AF%D9%88%D9%85%D9%8A%20%D8%A8%D8%A7%D9%84%D9%83%D8%A7%D8%B1%D9%8A.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%A7%D9%86%D8%AF%D9%88%D9%85%D9%8A%20%D8%A8%D8%A7%D9%84%D9%84%D8%AD%D9%85.png"
-    ],
-    "description": "شعيرية إندومي سريعة التحضير بتصميم إبداعي يجمع بين النكهة والمتعة. تتوفر بتشكيلة من النكهات الشهية تشمل الخضار، اللحم، والكاري، مع مكونات مختارة بعناية لتمنحك تجربة طعام لذيذة وسريعة التحضير. مثالية لوجبة خفيفة في أي وقت من اليوم، سواء في المنزل أو العمل.",
-    "reviews": [
-      {
-        "name": "أبو العز",
-        "rating": 5,
-        "text": "طعم ممتاز وسريع التحضير، كل النكهات لذيذة."
-      },
-      {
-        "name": "سلمى",
-        "rating": 5,
-        "text": "أحب تنوع النكهات، خصوصًا نكهة الكاري."
-      },
-      {
-        "name": "محمد",
-        "rating": 4,
-        "text": "جودة جيدة وسعر مناسب."
-      }
-    ]
-  },
-  {
-    "id": 36,
-    "name": "بطاطس برينجلز – تشكيلة نكهات متنوعة",
-    "category": "مواد غذائية",
-    "price": 7,
-    "rating": 5,
-    "icon": "bag",
-    "badge": "الأكثر مبيعًا",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%A8%D8%B1%D9%86%D8%AC%D8%B2.png",
-    "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%A8%D8%B1%D9%86%D8%AC%D8%B2.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%A8%D8%B1%D9%86%D8%AC%D8%B2%20%D8%AD%D8%A7%D8%B1.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%A8%D8%B1%D9%86%D8%AC%D8%B2%20%D8%A8%D8%A7%D9%84%D8%B7%D9%85%D8%A7%D8%B7%D9%85.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%A8%D8%B1%D9%86%D8%AC%D8%B2%20%D8%A8%D8%A7%D9%84%D9%85%D9%84%D8%AD%20%D9%88%D8%A7%D9%84%D8%AE%D9%84.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%A8%D8%B1%D9%86%D8%AC%D8%B2%20%D8%A8%D8%A7%D9%84%D8%AB%D9%88%D9%85.png"
-    ],
-    "description": "رقائق بطاطس برينجلز الشهيرة بقرمشتها الفريدة وشكلها المتناسق داخل عبوة أسطوانية عملية قابلة لإعادة الإغلاق للحفاظ على النضارة. تتوفر بتشكيلة نكهات مميزة تشمل النكهة الأصلية، الكريمة الحامضة والبصل، الملح والخل، والنكهة الحارة. مثالية للتقديم كوجبة خفيفة في أي وقت، سواء في المنزل أو أثناء التنقل.",
-    "reviews": [
-      {
-        "name": "أبو هيثم",
-        "rating": 5,
-        "text": "قرمشة ممتازة والطعم ثابت بكل مرة، خصوصًا الملح والخل."
-      },
-      {
-        "name": "سماهر",
-        "rating": 5,
-        "text": "أحب نكهة الكريمة والبصل، خفيفة ومش دسمة."
-      },
-      {
-        "name": "أيهم",
-        "rating": 4,
-        "text": "جودة عالية وسهل التخزين، العبوة عملية جدًا."
-      }
-    ]
-  },
-  {
-    "id": 37,
-    "name": "ويفر بالشوكولاتة – غمرة الشوكولاتة",
-    "category": "مواد غذائية",
-    "price": 6,
-    "rating": 5,
-    "icon": "bag",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%A8%D8%B3%D9%83%D9%88%D8%AA.png",
-    "description": "بسكويت ويفر مقرمش محشو بطبقات غنية من كريمة الشوكولاتة، يتميز بقوام خفيف وقرمشة واضحة مع طعم شوكولاتة ناعم ولذيذ. مثالي كوجبة خفيفة مع القهوة أو الشاي، أو كتحلية سريعة في أي وقت من اليوم. مغلف بطريقة تحافظ على الطزاجة والنكهة.",
-    "reviews": [
-      {
-        "name": "أم هيثم",
-        "rating": 5,
-        "text": "طعمه غني بالشوكولاتة والقرمشة ممتازة."
-      },
-      {
-        "name": "ألمى",
-        "rating": 5,
-        "text": "خفيف ولذيذ، مناسب مع القهوة."
-      },
-      {
-        "name": "ندى",
-        "rating": 4,
-        "text": "جيد جدًا وسعره مناسب مقارنة بالجودة."
-      }
-    ],
-    "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%A8%D8%B3%D9%83%D9%88%D8%AA.png"
-    ]
-  },
-  {
-    "id": 38,
-    "name": "ويفر شوكولاتة فاخر – انفجار القرمشة",
-    "category": "مواد غذائية",
-    "price": 8,
-    "rating": 5,
-    "icon": "bag",
-    "badge": "الأكثر مبيعًا",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%A8%D8%B3%D9%83%D9%88%D8%AA%20%D9%88%D9%8A%D9%81%D8%B1.png",
-    "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%A8%D8%B3%D9%83%D9%88%D8%AA%20%D9%88%D9%8A%D9%81%D8%B1.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%A8%D8%B3%D9%83%D9%88%D9%8A%D8%AA.png"
-    ],
-    "description": "بسكويت ويفر مقرمش محشو بكريمة شوكولاتة ناعمة، يجمع بين خفة الويفر وغنى الشوكولاتة. يتميز بطبقات متناسقة تمنح قرمشة واضحة مع مذاق كريمي غني، ويُعد خيارًا مثاليًا للتناول مع القهوة أو كتحلية خفيفة في أي وقت من اليوم. مغلف بعناية للحفاظ على الطزاجة وجودة الطعم.",
-    "reviews": [
-      {
-        "name": "أم هيثم",
-        "rating": 5,
-        "text": "طعمه غني بالشوكولاتة ويليق كثيرًا مع القهوة."
-      },
-      {
-        "name": "لما",
-        "rating": 5,
-        "text": "قرمش وخفيف، يعطي إحساس منتج فاخر."
-      },
-      {
-        "name": "أية",
-        "rating": 4,
-        "text": "جودة ممتازة وسعره مناسب."
-      }
-    ]
-  },
-  {
-    "id": 39,
-    "name": "شوكولاتة أولكر لافيفا – أناقة الشوكولاتة",
-    "category": "مواد غذائية",
-    "price": 6,
-    "rating": 5,
-    "icon": "bag",
-    "badge": "الأكثر مبيعًا",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B4%D9%83%D9%88%D9%84%D8%A7%D8%AA%D9%87%20%D9%84%D8%A7%D9%81%D9%8A%D9%81%D8%A7.png",
-    "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B4%D9%83%D9%88%D9%84%D8%A7%D8%AA%D9%87%20%D9%84%D8%A7%D9%81%D9%8A%D9%81%D8%A7.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%84%D8%A7%D9%81%D9%8A%D9%81%D8%A7.png"
-    ],
-    "description": "شوكولاتة أولكر لافيفا بطبقاتها الثلاثة المتجانسة: قاعدة من بسكويت الكاكاو المقرمش، حشوة شوكولاتة داكنة غنية، وطبقة خارجية من شوكولاتة الحليب الناعمة. مغلفة بعناية في عبوة أنيقة تحمل طابع الفخامة والجودة، مثالية كوجبة خفيفة أو تحلية لذيذة في أي وقت من اليوم.",
-    "reviews": [
-      {
-        "name": "أم لؤي",
-        "rating": 5,
-        "text": "عبارة عن شوكولاتة مميزة بطبقاتها المختلفة وطعمها رائع."
-      },
-      {
-        "name": "سارة",
-        "rating": 5,
-        "text": "مذاق الشوكولاتة المزدوج مع البسكويت يضيف قوامًا لذيذًا."
-      },
-      {
-        "name": "رباب",
-        "rating": 4,
-        "text": "منتج ممتاز وسعره مناسب مقابل الجودة."
-      }
-    ]
-  },
-  {
-    "id": 40,
-    "name": "شوكولاتة ساري (Sari) – فخامة المذاق التركي",
-    "category": "مواد غذائية",
-    "price": 8,
-    "rating": 5,
-    "icon": "bag",
-    "badge": "الأكثر مبيعًا",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B4%D9%88%D9%83%D9%84%D8%A7%D8%AA%D9%87%20%D8%A8%D8%A7%D9%84%D9%81%D8%B3%D8%AF%D9%82%20%D8%A7%D9%84%D8%AD%D9%84%D8%A8%D9%8A.png",
-    "description": "شوكولاتة ساري التركية الفاخرة بنكهة \"فراولة وبسكويت\"، تحتوي على حشوة كريمية وردية مع قطع بسكويت مقرمشة. الغلاف الأبيض مع لمسات سماوية يوحي بالرقي والخفة،  الجودة والفخامة.",
-    "reviews": [
-      {
-        "name": "ليلى",
-        "rating": 5,
-        "text": "الشوكولاتة غنية جدًا وطعمها ممتاز."
-      },
-      {
-        "name": "هاني",
-        "rating": 4,
-        "text": "الحشوة مبتكرة والمقرمش رائع."
-      },
-      {
-        "name": "منى",
-        "rating": 5,
-        "text": "تجربة فاخرة للشوكولاتة التركية."
-      }
-    ],
-    "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%B4%D9%88%D9%83%D9%84%D8%A7%D8%AA%D9%87%20%D8%A8%D8%A7%D9%84%D9%81%D8%B3%D8%AF%D9%82%20%D8%A7%D9%84%D8%AD%D9%84%D8%A8%D9%8A.png"
-    ]
-  },
-  {
-    "id": 41,
-    "name": "لحم النخبة الطازج ",
-    "category": "مواد غذائية",
-    "price": 43,
-    "rating": 5,
-    "icon": "bag",
-    "badge": "الأكثر مبيعًا",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%84%D8%AD%D9%88%D9%85.png",
-    "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%84%D8%AD%D9%88%D9%85.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%84%D8%AD%D9%85.png"
-    ],
-    "description": "كيلو اللحم بـ 43 شيكل. قطعة كبيرة وفاخرة من اللحم البقري الطازج، تتميز بنسيج متماسك وطبقات رقيقة من الدهون البيضاء لضمان طراوة ونكهة غنية عند الطهي. العرض والقطع مصممان باحترافية للتحمير أو الطهي البطيء.",
-    "reviews": [
-      {
-        "name": "سلمان",
-        "rating": 5,
-        "text": "اللحم طازج جداً وطعمه رائع عند الشوي."
-      },
-      {
-        "name": "هالة",
-        "rating": 4,
-        "text": "جودة ممتازة وسعر مناسب."
-      },
-      {
-        "name": "محمود",
-        "rating": 5,
-        "text": "القطعية فاخرة واللحم متماسك وطري."
-      }
-    ]
-  },
-  {
-    "id": 42,
-    "name": "لحم مفروم طازج – جودة وطراوة ممتازة ",
-    "category": "مواد غذائية",
-    "price": 43,
-    "rating": 5,
-    "icon": "bag",
-    "badge": "الأكثر مبيعًا",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%84%D8%AD%D9%85%20%D9%85%D9%81%D8%B1%D9%88%D9%85.png",
-    "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%84%D8%AD%D9%85%20%D9%85%D9%81%D8%B1%D9%88%D9%85.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%84%D8%AD%D9%85%20%D9%85%D9%81%D8%B1%D9%88%D9%85%D8%A9.png"
-    ],
-    "description": "لحم مفروم طازج في أكياس بلاستيكية شفافة، يحتوي على اللحم الأحمر مع نسبة مناسبة من الدهون. جاهز للاستخدام الفوري في الطهي، يتميز بنسيج متماسك وطراوة تضمن طعماً غنياً عند الشوي أو الطهي البطيء، الكيلو ب 43 شيكل.",
-    "reviews": [
-      {
-        "name": "أحمد",
-        "rating": 5,
-        "text": "اللحم طازج جداً وطعمه رائع عند الشوي."
-      },
-      {
-        "name": "أم عبدالله",
-        "rating": 4,
-        "text": "جودة ممتازة وسهل الاستخدام."
-      },
-      {
-        "name": "محمود",
-        "rating": 5,
-        "text": "القطعية ممتازة والطراوة واضحة."
-      }
-    ]
-  },
-  {
-    "id": 44,
-    "name": "سويت فور يو – متعة الشوكولاتة في كل قضمة ",
-    "category": "مواد غذائية",
-    "price": 7,
-    "rating": 4,
-    "icon": "bag",
-    "badge": "جديد",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D9%88%D9%84%D8%AA%D9%88.png",
-    "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D9%88%D9%84%D8%AA%D9%88.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D9%88%D9%84%D8%AA%D9%881.png"
-    ],
-    "description": "كرواسون Sweet 4U محشو بكريمة الشوكولاتة الغنية، بعجينة هشة وقوام مثالي. التغليف الأحمر والكريمي مع شعار Sweet 4U يبرز المنتج ويضمن وضوح العلامة التجارية. الوزن الصافي 40 جرام، مناسب كوجبة خفيفة للمدرسة أو العمل. تواريخ الإنتاج والصلاحية واضحة على الغلاف لضمان الجودة.",
-    "reviews": [
-      {
-        "name": "أمينة",
-        "rating": 5,
-        "text": "كرواسون شهي والحشوة لذيذة جدًا."
-      },
-      {
-        "name": "خالد",
-        "rating": 4,
-        "text": "القوام هش وطعم الشوكولاتة ممتاز."
-      },
-      {
-        "name": "منى",
-        "rating": 5,
-        "text": "وجبة خفيفة مثالية للأطفال والكبار."
-      }
-    ]
-  },
-  {
-    "id": 45,
-    "name": "مولتو ماجنوم – انفجار فراولة الجيز كيك ",
-    "category": "مواد غذائية",
-    "price": 4,
-    "rating": 5,
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D9%88%D9%84%D8%AA%D9%88%20%D9%81%D8%B1%D8%A7%D9%88%D9%84%D8%A9.png",
-    "description": "كرواسون Molto Magnum بحجم أكبر وحشوة أغنى، بنكهة Strawberry Cheesecake المميزة. التغليف الأسود الفخم مع شعار Molto وشعار Magnum الأحمر يبرز كثافة الحشوة ويعرض صورة الكرواسون المفتوح مع مربى الفراولة وقطع التشيز كيك. العبوة ثنائية اللغة، مناسبة كوجبة خفيفة فاخرة مع جودة واضحة ومكونات غنية.",
-    "reviews": [
-      {
-        "name": "رنا",
-        "rating": 5,
-        "text": "الكرواسون غني بالحشوة وطعمه مذهل."
-      },
-      {
-        "name": "عمر",
-        "rating": 4,
-        "text": "حشوة أكثر تعطي متعة أكبر عند الأكل."
-      },
-      {
-        "name": "هند",
-        "rating": 5,
-        "text": "إصدار فاخر وحجمه مناسب لمحبي الشوكولاتة والكريمة."
-      }
-    ],
-    "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D9%88%D9%84%D8%AA%D9%88%20%D9%81%D8%B1%D8%A7%D9%88%D9%84%D8%A9.png"
-    ]
-  },
-  {
-    "id": 46,
-    "name": "فيوتروس كشكفال – الطعم المثالي لبيتزا ذهبية  ",
-    "category": "مواد غذائية",
-    "price": 35,
-    "rating": 5,
-    "badge": "مخصص للبيتزا",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%AC%D8%A8%D9%86%D8%A9%20%D8%A8%D9%8A%D8%AA%D8%B2%D8%A7%D8%A7.png",
-    "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%AC%D8%A8%D9%86%D8%A9%20%D8%A8%D9%8A%D8%AA%D8%B2%D8%A7%D8%A7.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%AC%D8%A8%D9%86%D8%A9%20%D8%A8%D9%8A%D8%AA%D8%B2%D8%A7.png"
-    ],
-    "description": "بديل جبن كشكفال من إنتاج شركة Viotros، يأتي على شكل قالب مضغوط (Vacuum Packed) بوزن 1 كغم، مخصص للاستخدام في المعجنات والبيتزا. يتميز بذوبان ممتاز وقوام مطاطي يمنح البيتزا لونًا ذهبيًا وطعمًا غنيًا. المنتج خالٍ من الغلوتين، بنكهة جبن الكشكفال، مع توضيح تواريخ الإنتاج والانتهاء. يُحفظ في درجة حرارة بين 2+ و8+ درجات مئوية.",
-    "reviews": [
-      {
-        "name": "محمود",
-        "rating": 5,
-        "text": "يذوب بشكل ممتاز ومثالي للبيتزا."
-      },
-      {
-        "name": "سحر",
-        "rating": 4,
-        "text": "طعم جيد وسهل الاستخدام في المعجنات."
-      },
-      {
-        "name": "أحمد",
-        "rating": 5,
-        "text": "أفضل خيار للبيتزا المنزلية."
-      }
-    ]
-  },
-  {
-    "id": 47,
-    "name": "مرتديلا سنيورة سادة – الطعم الأصيل",
-    "category": "مواد غذائية",
-    "price": 22,
-    "rating": 5,
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D8%B1%D8%AA%D8%AF%D9%8A%D9%84%D8%A7%20%D8%B3%D8%A7%D8%AF%D8%A9.png",
-    "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D8%B1%D8%AA%D8%AF%D9%8A%D9%84%D8%A7%20%D8%B3%D8%A7%D8%AF%D8%A9.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%85%D8%B1%D8%AA%D8%AF%D9%8A%D9%84%D8%A7%20%D8%B3%D8%A7%D8%AF%D8%A91.png"
-    ],
-    "description": "مرتديلا سنيورة القدس السادة (Plain Mortadella) من إنتاج شركة سنيورة للصناعات الغذائية، وهي النسخة التقليدية الخالية من الإضافات، بقوام ناعم ومتجانس وطعم متوازن يناسب جميع أفراد العائلة وخاصة الأطفال. تتميز بتغليفها الأسطواني المحكم باللونين الأصفر والبرتقالي مع إشارة واضحة إلى تاريخ العلامة التجارية العريقة منذ عام 1920. مثالية للسندوتشات، الفطور، والاستخدام اليومي، والمنتج حلال ويُحفظ مبردًا وفق تعليمات السلامة الغذائية.",
-    "reviews": [
-      {
-        "name": "نهى",
-        "rating": 5,
-        "text": "طعمها خفيف ومناسب للأطفال."
-      },
-      {
-        "name": "مها",
-        "rating": 4,
-        "text": "جودة ممتازة وسهلة التقطيع."
-      },
-      {
-        "name": "رشا",
-        "rating": 5,
-        "text": "الطعم الكلاسيكي الذي نعرفه منذ سنوات."
-      }
-    ]
-  },
-  {
-    "id": 48,
-    "name": "نقانق دجاج سارة – الوجبة السريعة المفضلة",
-    "category": "مواد غذائية",
-    "price": 20,
-    "rating": 5,
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%86%D9%82%D8%A7%D9%86%D9%82%20%D8%AF%D8%AC%D8%A7%D8%AC.png",
-    "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%86%D9%82%D8%A7%D9%86%D9%82%20%D8%AF%D8%AC%D8%A7%D8%AC.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%86%D9%82%D8%A7%D9%86%D9%82%20.png"
-    ],
-    "description": "نقانق دجاج من إنتاج شركة سارة (Sara)، مصنوعة من لحم دجاج حلال وبجودة عالية. تأتي بوزن 400 غرام، ومغلفة بتقنية التفريغ الهوائي (Vacuum Sealed) للحفاظ على الطزاجة والجودة. تحتوي العبوة على جدول القيم الغذائية، مما يجعلها خيارًا مناسبًا لوجبة سريعة ولذيذة في أي وقت.",
-    "reviews": [
-      {
-        "name": "خليل",
-        "rating": 5,
-        "text": "سهلة التحضير وطعمها ممتاز."
-      },
-      {
-        "name": "ندى",
-        "rating": 4,
-        "text": "مناسبة للفطور والسندوتشات."
-      },
-      {
-        "name": "يوسف",
-        "rating": 5,
-        "text": "منتج موثوق وجودته ثابتة."
-      }
-    ]
-  },
-  {
-    "id": 49,
-    "name": "لبن الجنيدي بطعم الفراولة – انتعاش وحلاوة في كل ملعقة",
-    "category": "مواد غذائية",
-    "price": 5,
-    "rating": 5,
-    "badge": "وجبة خفيفة",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%84%D8%A8%D9%86%20%D9%81%D8%B1%D8%A7%D9%88%D9%84%D8%A91.png",
-    "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%84%D8%A8%D9%86%20%D9%81%D8%B1%D8%A7%D9%88%D9%84%D8%A91.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D9%84%D8%A8%D9%86%20%D9%81%D8%B1%D8%A7%D9%88%D9%84%D8%A9.png"
-    ],
-    "description": "لبن الجنيدي بنكهة الفراولة من إنتاج شركة الجنيدي للألبان، يتميز بقوام ناعم وطعم متوازن يجمع بين حلاوة الفراولة الطبيعية وانتعاش اللبن. يحتوي على نسبة دسم 1.5%، مما يجعله خياراً خفيفاً ومناسباً للأطفال والكبار. يأتي في عبوة فردية عملية محكمة الإغلاق، مثالية كوجبة خفيفة سريعة في أي وقت من اليوم. يُحفظ مبرداً لضمان الجودة والطزاجة.",
-    "reviews": [
-      {
-        "name": "بهاء",
-        "rating": 5,
-        "text": "طعم منعش وحلو بدون مبالغة."
-      },
-      {
-        "name": "أم سيلين",
-        "rating": 4,
-        "text": "مناسب للأطفال وسهل الحمل."
-      },
-      {
-        "name": "يوسف",
-        "rating": 5,
-        "text": "لبن لذيذ وجودة الجنيدي معروفة."
-      }
-    ]
-  },
-  {
-    "id": 50,
-    "name": "حليب المراعي كامل الدسم – التغذية الطبيعية في كل رشفة",
-    "category": "مواد غذائية",
-    "price": 2,
-    "rating": 5,
-    "badge": "استهلاك فردي",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%AD%D9%84%D9%8A%D8%A8%20%D9%85%D8%B1%D8%A7%D8%B9%D9%8A1.png",
-    "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%AD%D9%84%D9%8A%D8%A8%20%D9%85%D8%B1%D8%A7%D8%B9%D9%8A1.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%AD%D9%84%D9%8A%D8%A8%20%D9%85%D8%B1%D8%A7%D8%B9%D9%8A.png"
-    ],
-    "description": "حليب المراعي كامل الدسم طويل الأمد (UHT) بحجم 200 مل، مصنوع من حليب طبيعي 100% ولا يحتوي على حليب بودرة. يتميز بقوامه الغني وطعمه الطازج، مناسب للاستخدام الفردي، للحقائب المدرسية، أو كوجبة خفيفة سريعة. العبوة مصممة باللون الأزرق الجذاب مع رسم توضيحي لسكب الحليب في كأس، لتعزيز الشعور بالطزاجة.",
-    "reviews": [
-      {
-        "name": "علي",
-        "rating": 5,
-        "text": "حليب طازج وغني بالنكهة."
-      },
-      {
-        "name": "منى",
-        "rating": 4,
-        "text": "مثالي للاستخدام اليومي وعملي للحمل."
-      },
-      {
-        "name": "سامي",
-        "rating": 5,
-        "text": "منتج موثوق وجودة المراعي واضحة."
-      }
-    ]
-  },
-  {
-    "id": 51,
-    "name": "طقم كيدز بوكس المدرسي المتكامل – طبعة أميرات ديزني       ",
-    "category": "أدوات منزلية",
-    "price": 35,
-    "rating": 5,
-    "badge": "عرض توفير",
-    "icon": "home",
-    "image": "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%A7%D9%84%D8%B9%D8%A7%D8%A82.png",
-    "images": [
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%A7%D9%84%D8%B9%D8%A7%D8%A82.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%A7%D9%84%D8%B9%D8%A7%D8%A81.png",
-      "https://media.githubusercontent.com/media/ayahelmi/household-appliances-images/refs/heads/master/%D8%A7%D9%84%D8%B9%D8%A7%D8%A8.png"
-    ],
-    "description": "طقم Kids Box المدرسي المتكامل من إنتاج شركة كرم بلاست (Karam Plast)، مصمم خصيصاً لتلبية احتياجات الأطفال في المدرسة أو الروضة بطريقة عملية وجذابة. يتكون الطقم من لانش بوكس لحفظ الطعام، زمزمية مياه بلاستيكية، ومقلمة للأدوات المدرسية، جميعها مزينة برسومات أميرات ديزني المحببة للأطفال. يأتي الطقم كعبوة واحدة اقتصادية (Special Offer)، بخامة بلاستيكية متينة مناسبة للاستخدام اليومي المتكرر، ويتميز باللون الوردي الزاهي الذي يشجع الأطفال على الالتزام بوجباتهم وأدواتهم.",
-    "reviews": [
-      {
-        "name": "أم يارا",
-        "rating": 5,
-        "text": "طقم جميل جداً وبناتي حبوه من أول يوم مدرسة."
-      },
-      {
-        "name": "لينا",
-        "rating": 5,
-        "text": "الخامة جيدة والسعر أوفر من شراء القطع منفصلة."
-      },
-      {
-        "name": "هدى",
-        "rating": 4,
-        "text": "عملي ومرتب ومناسب للروضة."
-      }
-    ]
-  }
+  "id": 35,
+  "name": "إندومي كاسات – تشكيلة نكهات متنوعة",
+  "category": "مواد غذائية",
+  "price": 5,
+  "rating": 5,
+  "icon": "bag",
+  "badge": "الأكثر مبيعًا",
+  "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%A7%D9%86%D8%AF%D9%88%D9%85%D9%8A.png",
+  "images": [
+    "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%A7%D9%86%D8%AF%D9%88%D9%85%D9%8A.png",
+    "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%A7%D9%86%D8%AF%D9%88%D9%85%D9%8A%20%D8%AE%D8%B6%D8%A7%D8%B1.png",
+    "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%A7%D9%86%D8%AF%D9%88%D9%85%D9%8A%20%D8%A8%D8%A7%D9%84%D9%83%D8%A7%D8%B1%D9%8A.png",
+    "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%A7%D9%86%D8%AF%D9%88%D9%85%D9%8A%20%D8%A8%D8%A7%D9%84%D9%84%D8%AD%D9%85.png"
+  ],
+  "description": "شعيرية إندومي سريعة التحضير بتصميم إبداعي يجمع بين النكهة والمتعة. تتوفر بتشكيلة من النكهات الشهية تشمل الخضار، اللحم، والكاري، مع مكونات مختارة بعناية لتمنحك تجربة طعام لذيذة وسريعة التحضير. مثالية لوجبة خفيفة في أي وقت من اليوم، سواء في المنزل أو العمل.",
+  "reviews": [
+    { "name": "أبو العز", "rating": 5, "text": "طعم ممتاز وسريع التحضير، كل النكهات لذيذة." },
+    { "name": "سلمى", "rating": 5, "text": "أحب تنوع النكهات، خصوصًا نكهة الكاري." },
+    { "name": "محمد", "rating": 4, "text": "جودة جيدة وسعر مناسب." }
+  ]
+},
+{
+  "id": 36,
+  "name": "بطاطس برينجلز – تشكيلة نكهات متنوعة",
+  "category": "مواد غذائية",
+  "price": 7,
+  "rating": 5,
+  "icon": "bag",
+  "badge": "الأكثر مبيعًا",
+  "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%A8%D8%B1%D9%86%D8%AC%D8%B2.png",
+  "images": [
+    "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%A8%D8%B1%D9%86%D8%AC%D8%B2.png",
+    "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%A8%D8%B1%D9%86%D8%AC%D8%B2%20%D8%AD%D8%A7%D8%B1.png",
+    "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%A8%D8%B1%D9%86%D8%AC%D8%B2%20%D8%A8%D8%A7%D9%84%D8%B7%D9%85%D8%A7%D8%B7%D9%85.png",
+    "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%A8%D8%B1%D9%86%D8%AC%D8%B2%20%D8%A8%D8%A7%D9%84%D9%85%D9%84%D8%AD%20%D9%88%D8%A7%D9%84%D8%AE%D9%84.png",
+    "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%A8%D8%B1%D9%86%D8%AC%D8%B2%20%D8%A8%D8%A7%D9%84%D8%AB%D9%88%D9%85.png"
+  ],
+  "description": "رقائق بطاطس برينجلز الشهيرة بقرمشتها الفريدة وشكلها المتناسق داخل عبوة أسطوانية عملية قابلة لإعادة الإغلاق للحفاظ على النضارة. تتوفر بتشكيلة نكهات مميزة تشمل النكهة الأصلية، الكريمة الحامضة والبصل، الملح والخل، والنكهة الحارة. مثالية للتقديم كوجبة خفيفة في أي وقت، سواء في المنزل أو أثناء التنقل.",
+  "reviews": [
+    { "name": "أبو هيثم", "rating": 5, "text": "قرمشة ممتازة والطعم ثابت بكل مرة، خصوصًا الملح والخل." },
+    { "name": "سماهر", "rating": 5, "text": "أحب نكهة الكريمة والبصل، خفيفة ومش دسمة." },
+    { "name": "أيهم", "rating": 4, "text": "جودة عالية وسهل التخزين، العبوة عملية جدًا." }
+  ]
+},
+{
+  "id": 37,
+  "name": "ويفر بالشوكولاتة – غمرة الشوكولاتة",
+  "category": "مواد غذائية",
+  "price": 6,
+  "rating": 5,
+  "icon": "bag",
+  "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%A8%D8%B3%D9%83%D9%88%D8%AA.png",
+  "description": "بسكويت ويفر مقرمش محشو بطبقات غنية من كريمة الشوكولاتة، يتميز بقوام خفيف وقرمشة واضحة مع طعم شوكولاتة ناعم ولذيذ. مثالي كوجبة خفيفة مع القهوة أو الشاي، أو كتحلية سريعة في أي وقت من اليوم. مغلف بطريقة تحافظ على الطزاجة والنكهة.",
+  "reviews": [
+    { "name": "أم هيثم", "rating": 5, "text": "طعمه غني بالشوكولاتة والقرمشة ممتازة." },
+    { "name": "ألمى", "rating": 5, "text": "خفيف ولذيذ، مناسب مع القهوة." },
+    { "name": "ندى", "rating": 4, "text": "جيد جدًا وسعره مناسب مقارنة بالجودة." }
+  ]
+},
+{
+  "id": 38,
+  "name": "ويفر شوكولاتة فاخر – انفجار القرمشة",
+  "category": "مواد غذائية",
+  "price": 8,
+  "rating": 5,
+  "icon": "bag",
+  "badge": "الأكثر مبيعًا",
+  "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%A8%D8%B3%D9%83%D9%88%D8%AA%20%D9%88%D9%8A%D9%81%D8%B1.png",
+  "images": [
+    "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%A8%D8%B3%D9%83%D9%88%D8%AA%20%D9%88%D9%8A%D9%81%D8%B1.png",
+    "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%A8%D8%B3%D9%83%D9%88%D9%8A%D8%AA.png"
+  ],
+  "description": "بسكويت ويفر مقرمش محشو بكريمة شوكولاتة ناعمة، يجمع بين خفة الويفر وغنى الشوكولاتة. يتميز بطبقات متناسقة تمنح قرمشة واضحة مع مذاق كريمي غني، ويُعد خيارًا مثاليًا للتناول مع القهوة أو كتحلية خفيفة في أي وقت من اليوم. مغلف بعناية للحفاظ على الطزاجة وجودة الطعم.",
+  "reviews": [
+    { "name": "أم هيثم", "rating": 5, "text": "طعمه غني بالشوكولاتة ويليق كثيرًا مع القهوة." },
+    { "name": "لما", "rating": 5, "text": "قرمش وخفيف، يعطي إحساس منتج فاخر." },
+    { "name": "أية", "rating": 4, "text": "جودة ممتازة وسعره مناسب." }
+  ]
+},
+{
+  "id": 39,
+  "name": "شوكولاتة أولكر لافيفا – أناقة الشوكولاتة",
+  "category": "مواد غذائية",
+  "price": 6,
+  "rating": 5,
+  "icon": "bag",
+  "badge": "الأكثر مبيعًا",
+  "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B4%D9%83%D9%88%D9%84%D8%A7%D8%AA%D9%87%20%D9%84%D8%A7%D9%81%D9%8A%D9%81%D8%A7.png",
+  "images": [
+    "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B4%D9%83%D9%88%D9%84%D8%A7%D8%AA%D9%87%20%D9%84%D8%A7%D9%81%D9%8A%D9%81%D8%A7.png",
+    "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%84%D8%A7%D9%81%D9%8A%D9%81%D8%A7.png"
+  ],
+  "description": "شوكولاتة أولكر لافيفا بطبقاتها الثلاثة المتجانسة: قاعدة من بسكويت الكاكاو المقرمش، حشوة شوكولاتة داكنة غنية، وطبقة خارجية من شوكولاتة الحليب الناعمة. مغلفة بعناية في عبوة أنيقة تحمل طابع الفخامة والجودة، مثالية كوجبة خفيفة أو تحلية لذيذة في أي وقت من اليوم.",
+  "reviews": [
+    { "name": "أم لؤي", "rating": 5, "text": "عبارة عن شوكولاتة مميزة بطبقاتها المختلفة وطعمها رائع." },
+    { "name": "سارة", "rating": 5, "text": "مذاق الشوكولاتة المزدوج مع البسكويت يضيف قوامًا لذيذًا." },
+    { "name": "رباب", "rating": 4, "text": "منتج ممتاز وسعره مناسب مقابل الجودة." }
+  ]
+},
+{
+  "id": 40,
+  "name": "شوكولاتة ساري (Sari) – فخامة المذاق التركي",
+  "category": "مواد غذائية",
+  "price": 8,
+  "rating": 5,
+  "icon": "bag",
+  "badge": "الأكثر مبيعًا",
+  "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%B4%D9%88%D9%83%D9%84%D8%A7%D8%AA%D9%87%20%D8%A8%D8%A7%D9%84%D9%81%D8%B3%D8%AF%D9%82%20%D8%A7%D9%84%D8%AD%D9%84%D8%A8%D9%8A.png",
+  "description": "شوكولاتة ساري التركية الفاخرة بنكهة الفراولة والبسكويت، تحتوي على حشوة كريمية ناعمة مع قطع بسكويت مقرمشة. تتميز بمذاق غني يجمع بين الحلاوة والقرمشة في تجربة فريدة.",
+  "reviews": [
+    { "name": "ليلى", "rating": 5, "text": "الشوكولاتة غنية جدًا وطعمها ممتاز." },
+    { "name": "هاني", "rating": 4, "text": "الحشوة مبتكرة والمقرمش رائع." },
+    { "name": "منى", "rating": 5, "text": "تجربة فاخرة للشوكولاتة التركية." }
+  ]
+},
+{
+  "id": 41,
+  "name": "لحم النخبة الطازج",
+  "category": "مواد غذائية",
+  "price": 43,
+  "rating": 5,
+  "icon": "bag",
+  "badge": "الأكثر مبيعًا",
+  "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%84%D8%AD%D9%88%D9%85.png",
+  "images": [
+    "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%84%D8%AD%D9%88%D9%85.png",
+    "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%84%D8%AD%D9%85.png"
+  ],
+  "description": "قطعة كبيرة وفاخرة من اللحم البقري الطازج تتميز بنسيج متماسك وطبقات خفيفة من الدهون لضمان طراوة ونكهة غنية عند الطهي.",
+  "reviews": [
+    { "name": "سلمان", "rating": 5, "text": "اللحم طازج جداً وطعمه رائع عند الشوي." },
+    { "name": "هالة", "rating": 4, "text": "جودة ممتازة وسعر مناسب." },
+    { "name": "محمود", "rating": 5, "text": "القطعية فاخرة واللحم طري." }
+  ]
+},
+{
+  "id": 42,
+  "name": "لحم مفروم طازج – جودة وطراوة ممتازة",
+  "category": "مواد غذائية",
+  "price": 43,
+  "rating": 5,
+  "icon": "bag",
+  "badge": "الأكثر مبيعًا",
+  "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%84%D8%AD%D9%85%20%D9%85%D9%81%D8%B1%D9%88%D9%85.png",
+  "images": [
+    "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%84%D8%AD%D9%85%20%D9%85%D9%81%D8%B1%D9%88%D9%85.png",
+    "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%84%D8%AD%D9%85%20%D9%85%D9%81%D8%B1%D9%88%D9%85%D8%A9.png"
+  ],
+  "description": "لحم مفروم طازج جاهز للاستخدام في مختلف الوصفات، يتميز بنسبة دهون مناسبة وطراوة عالية تمنح طعماً غنياً عند الطهي.",
+  "reviews": [
+    { "name": "أحمد", "rating": 5, "text": "طازج جداً ومثالي للشوي والطهي." },
+    { "name": "أم عبدالله", "rating": 4, "text": "سهل الاستخدام وجودة ممتازة." },
+    { "name": "محمود", "rating": 5, "text": "أفضل لحم مفروم جربته." }
+  ]
+},
+{
+  "id": 44,
+  "name": "سويت فور يو – متعة الشوكولاتة في كل قضمة",
+  "category": "مواد غذائية",
+  "price": 7,
+  "rating": 4,
+  "icon": "bag",
+  "badge": "جديد",
+  "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D9%88%D9%84%D8%AA%D9%88.png",
+  "images": [
+    "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D9%88%D9%84%D8%AA%D9%88.png",
+    "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D9%88%D9%84%D8%AA%D9%881.png"
+  ],
+  "description": "كرواسون محشو بكريمة الشوكولاتة الغنية بعجينة هشة وخفيفة، مثالي كوجبة خفيفة للمدرسة أو العمل.",
+  "reviews": [
+    { "name": "أمينة", "rating": 5, "text": "كرواسون شهي والحشوة لذيذة جدًا." },
+    { "name": "خالد", "rating": 4, "text": "القوام هش وطعم ممتاز." },
+    { "name": "منى", "rating": 5, "text": "وجبة خفيفة مثالية." }
+  ]
+},
+{
+  "id": 45,
+  "name": "مولتو ماجنوم – انفجار فراولة الجيز كيك",
+  "category": "مواد غذائية",
+  "price": 4,
+  "rating": 5,
+  "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D9%88%D9%84%D8%AA%D9%88%20%D9%81%D8%B1%D8%A7%D9%88%D9%84%D8%A9.png",
+  "description": "كرواسون Molto Magnum بحجم أكبر وحشوة أغنى بنكهة فراولة تشيز كيك مميزة، يجمع بين الطراوة والحشوة الكريمية الغنية.",
+  "reviews": [
+    { "name": "رنا", "rating": 5, "text": "طعمه غني بالحشوة ومذهل." },
+    { "name": "عمر", "rating": 4, "text": "حشوة أكثر تعطي متعة أكبر." },
+    { "name": "هند", "rating": 5, "text": "فاخر جدًا ومشبع." }
+  ]
+},
+{
+  "id": 46,
+  "name": "فيوتروس كشكفال – الطعم المثالي لبيتزا ذهبية",
+  "category": "مواد غذائية",
+  "price": 35,
+  "rating": 5,
+  "badge": "مخصص للبيتزا",
+  "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%AC%D8%A8%D9%86%D8%A9%20%D8%A8%D9%8A%D8%AA%D8%B2%D8%A7%D8%A7.png",
+  "images": [
+    "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%AC%D8%A8%D9%86%D8%A9%20%D8%A8%D9%8A%D8%AA%D8%B2%D8%A7%D8%A7.png",
+    "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%AC%D8%A8%D9%86%D8%A9%20%D8%A8%D9%8A%D8%AA%D8%B2%D8%A7.png"
+  ],
+  "description": "بديل جبن كشكفال مخصص للبيتزا والمعجنات، يتميز بذوبان ممتاز وقوام مطاطي يمنح البيتزا طعماً غنياً ولوناً ذهبياً مميزاً.",
+  "reviews": [
+    { "name": "محمود", "rating": 5, "text": "يذوب بشكل ممتاز ومثالي للبيتزا." },
+    { "name": "سحر", "rating": 4, "text": "طعم جيد وسهل الاستخدام." },
+    { "name": "أحمد", "rating": 5, "text": "أفضل خيار للبيتزا المنزلية." }
+  ]
+},
+{
+  "id": 47,
+  "name": "مرتديلا سنيورة سادة – الطعم الأصيل",
+  "category": "مواد غذائية",
+  "price": 22,
+  "rating": 5,
+  "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D8%B1%D8%AA%D8%AF%D9%8A%D9%84%D8%A7%20%D8%B3%D8%A7%D8%AF%D8%A9.png",
+  "images": [
+    "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D8%B1%D8%AA%D8%AF%D9%8A%D9%84%D8%A7%20%D8%B3%D8%A7%D8%AF%D8%A9.png",
+    "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%85%D8%B1%D8%AA%D8%AF%D9%8A%D9%84%D8%A7%20%D8%B3%D8%A7%D8%AF%D8%A91.png"
+  ],
+  "description": "مرتديلا سادة بطعم كلاسيكي ناعم ومناسب لجميع أفراد العائلة، مثالية للسندويشات والاستخدام اليومي.",
+  "reviews": [
+    { "name": "نهى", "rating": 5, "text": "طعمها خفيف ومناسب للأطفال." },
+    { "name": "مها", "rating": 4, "text": "جودة ممتازة وسهلة التقطيع." },
+    { "name": "رشا", "rating": 5, "text": "طعم كلاسيكي رائع." }
+  ]
+},
+{
+  "id": 48,
+  "name": "نقانق دجاج سارة – الوجبة السريعة المفضلة",
+  "category": "مواد غذائية",
+  "price": 20,
+  "rating": 5,
+  "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%86%D9%82%D8%A7%D9%86%D9%82%20%D8%AF%D8%AC%D8%A7%D8%AC.png",
+  "images": [
+    "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%86%D9%82%D8%A7%D9%86%D9%82%20%D8%AF%D8%AC%D8%A7%D8%AC.png",
+    "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%86%D9%82%D8%A7%D9%86%D9%82%20.png"
+  ],
+  "description": "نقانق دجاج حلال عالية الجودة، جاهزة للاستخدام السريع ومناسبة للسندويشات والوجبات الخفيفة.",
+  "reviews": [
+    { "name": "خليل", "rating": 5, "text": "سهلة التحضير وطعمها ممتاز." },
+    { "name": "ندى", "rating": 4, "text": "مناسبة للفطور والسندويشات." },
+    { "name": "يوسف", "rating": 5, "text": "جودة ثابتة وممتازة." }
+  ]
+},
+{
+  "id": 49,
+  "name": "لبن الجنيدي بطعم الفراولة – انتعاش وحلاوة في كل ملعقة",
+  "category": "مواد غذائية",
+  "price": 5,
+  "rating": 5,
+  "badge": "وجبة خفيفة",
+  "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%84%D8%A8%D9%86%20%D9%81%D8%B1%D8%A7%D9%88%D9%84%D8%A91.png",
+  "images": [
+    "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%84%D8%A8%D9%86%20%D9%81%D8%B1%D8%A7%D9%88%D9%84%D8%A91.png",
+    "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D9%84%D8%A8%D9%86%20%D9%81%D8%B1%D8%A7%D9%88%D9%84%D8%A9.png"
+  ],
+  "description": "لبن بنكهة الفراولة بقوام ناعم وطعم متوازن يجمع بين الانتعاش والحلاوة الخفيفة، مناسب كوجبة خفيفة سريعة.",
+  "reviews": [
+    { "name": "بهاء", "rating": 5, "text": "طعم منعش ولذيذ." },
+    { "name": "أم سيلين", "rating": 4, "text": "مناسب للأطفال وسهل الحمل." },
+    { "name": "يوسف", "rating": 5, "text": "جودة ممتازة كعادة الجنيدي." }
+  ]
+},
+{
+  "id": 50,
+  "name": "حليب المراعي كامل الدسم – التغذية الطبيعية في كل رشفة",
+  "category": "مواد غذائية",
+  "price": 2,
+  "rating": 5,
+  "badge": "استهلاك فردي",
+  "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%AD%D9%84%D9%8A%D8%A8%20%D9%85%D8%B1%D8%A7%D8%B9%D9%8A1.png",
+  "images": [
+    "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%AD%D9%84%D9%8A%D8%A8%20%D9%85%D8%B1%D8%A7%D8%B9%D9%8A1.png",
+    "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%AD%D9%84%D9%8A%D8%A8%20%D9%85%D8%B1%D8%A7%D8%B9%D9%8A.png"
+  ],
+  "description": "حليب كامل الدسم طويل الأمد بحجم فردي، مصنوع من حليب طبيعي 100% بطعم غني وقيمة غذائية عالية.",
+  "reviews": [
+    { "name": "علي", "rating": 5, "text": "طعم طبيعي وغني." },
+    { "name": "منى", "rating": 4, "text": "مناسب للحمل والاستخدام اليومي." },
+    { "name": "سامي", "rating": 5, "text": "جودة المراعي معروفة." }
+  ]
+},
+{
+  "id": 51,
+  "name": "طقم كيدز بوكس المدرسي المتكامل – طبعة أميرات ديزني",
+  "category": "أدوات منزلية",
+  "price": 35,
+  "rating": 5,
+  "badge": "عرض توفير",
+  "icon": "home",
+  "image": "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%A7%D9%84%D8%B9%D8%A7%D8%A82.png",
+  "images": [
+    "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%A7%D9%84%D8%B9%D8%A7%D8%A82.png",
+    "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%A7%D9%84%D8%B9%D8%A7%D8%A81.png",
+    "https://cdn.jsdelivr.net/gh/ayahelmi/household-appliances-images@master/%D8%A7%D9%84%D8%B9%D8%A7%D8%A8.png"
+  ],
+  "description": "طقم مدرسي متكامل للأطفال يحتوي على لانش بوكس وزمزمية ومقلمة بتصميم أميرات ديزني، مناسب للاستخدام اليومي في المدرسة.",
+  "reviews": [
+    { "name": "أم يارا", "rating": 5, "text": "بناتي حبوه كثير." },
+    { "name": "لينا", "rating": 5, "text": "عملي وسعره ممتاز." },
+    { "name": "هدى", "rating": 4, "text": "مناسب للمدرسة والروضة." }
+  ]
+}
 ]
+
+
